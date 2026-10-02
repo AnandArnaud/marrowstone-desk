@@ -7,9 +7,10 @@ import { TicketThread } from "@/components/ticket-thread";
 
 export const dynamic = "force-dynamic";
 
-export default async function TicketPage({ params }: { params: Promise<{ id: string }> }) {
+export default async function TicketPage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ draft?: string; draft_error?: string }> }) {
   const user = await currentUser();
   const { id } = await params;
+  const { draft, draft_error } = await searchParams;
   if (!user) redirect(`/login?next=/app/tickets/${id}`);
   if (user.role === "customer") redirect(`/portal/tickets/${id}`);
   const ticket = await getTicket(user, id);
@@ -25,7 +26,11 @@ export default async function TicketPage({ params }: { params: Promise<{ id: str
       <div>
         <Link href="/app" style={{ fontSize: 13, color: "#6B7780" }}>← Inbox</Link>
         <div style={{ height: 10 }} />
-        <TicketThread ticket={ticket} messages={messages} replyPath={`/api/tickets/${id}/messages`} />
+        <TicketThread ticket={ticket} messages={messages} replyPath={`/api/tickets/${id}/messages`} draft={draft} />
+        <form method="post" action={`/api/tickets/${id}/draft`} style={{ marginTop: 10, display: "flex", gap: 10, alignItems: "center", fontSize: 13, color: "#6B7780" }}>
+          <button type="submit" style={{ background: "none", border: "1px solid #D9DFE3", borderRadius: 8, padding: "8px 12px", cursor: "pointer", color: "#1E2A32", fontWeight: 600 }}>Draft a reply with the assistant</button>
+          {draft_error ? <span style={{ color: "#C2503D" }}>The assistant is not configured (OPENAI_API_KEY is missing).</span> : <span>Drafts from the thread; edit before sending.</span>}
+        </form>
       </div>
       <aside style={{ display: "grid", gap: 16, alignContent: "start" }}>
         <form method="post" action={`/api/tickets/${id}`} style={{ background: "#fff", border: "1px solid #D9DFE3", borderRadius: 10, padding: 14, display: "grid", gap: 10, fontSize: 14 }}>

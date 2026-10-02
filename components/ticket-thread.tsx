@@ -8,7 +8,7 @@ export function Pill({ text, color }: { text: string; color: string }) {
   return <span style={{ display: "inline-block", padding: "2px 8px", borderRadius: 999, fontSize: 12, fontWeight: 600, color, border: `1px solid ${color}`, textTransform: "capitalize" }}>{text}</span>;
 }
 
-export function TicketThread({ ticket, messages, replyPath }: { ticket: TicketRow; messages: Row[]; replyPath: string }) {
+export function TicketThread({ ticket, messages, replyPath, draft }: { ticket: TicketRow; messages: Row[]; replyPath: string; draft?: string }) {
   return (
     <div>
       <div style={{ display: "flex", gap: 10, alignItems: "center", marginBottom: 6 }}>
@@ -30,7 +30,7 @@ export function TicketThread({ ticket, messages, replyPath }: { ticket: TicketRo
         ))}
       </div>
       <form method="post" action={replyPath} style={{ marginTop: 18, display: "grid", gap: 10 }}>
-        <textarea name="body" required rows={4} placeholder="Write a reply" style={{ padding: 12, border: "1px solid #D9DFE3", borderRadius: 8, fontFamily: "inherit", fontSize: 14 }} />
+        <textarea name="body" required rows={draft ? 8 : 4} defaultValue={draft} placeholder="Write a reply" style={{ padding: 12, border: "1px solid #D9DFE3", borderRadius: 8, fontFamily: "inherit", fontSize: 14 }} />
         <div>
           <button type="submit" style={{ background: "#1F5F7A", color: "#fff", border: 0, borderRadius: 8, padding: "10px 14px", fontWeight: 600, cursor: "pointer" }}>Send reply</button>
         </div>

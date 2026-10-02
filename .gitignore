@@ -7,4 +7,5 @@ out/
 .DS_Store
 data/*.db
 data/*.db-journal
+data/outbox.jsonl
 kb/images/

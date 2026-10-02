@@ -1,6 +1,7 @@
 import { execute, now, query, queryOne, type Row } from "./db";
 import { newId } from "./ids";
 import type { CurrentUser } from "./auth";
+import { appUrl, sendMail } from "./mail";
 
 export type TicketRow = {
   id: string; number: number; subject: string; body: string; status: string; priority: string; channel: string;
@@ -73,6 +74,13 @@ export async function addMessage(user: CurrentUser, ticketId: string, body: stri
   const firstResponse = user.role !== "customer" && !ticket.first_responded_at ? createdAt : ticket.first_responded_at;
   const status = user.role === "customer" && ticket.status === "pending" ? "open" : user.role !== "customer" && ticket.status === "open" ? "pending" : ticket.status;
   await execute("UPDATE tickets SET updated_at = ?, first_responded_at = ?, status = ? WHERE id = ?", [createdAt, firstResponse, status, ticketId]);
+  if (user.role !== "customer") {
+    await sendMail({
+      to: ticket.requester_email,
+      subject: `Re: ${ticket.subject} (#${ticket.number})`,
+      text: `${body}\n\n--\n${user.name}, ${user.orgName}\nReply in the portal: ${appUrl(`/portal/tickets/${ticketId}`)}`,
+    });
+  }
 }
 
 export async function updateTicket(user: CurrentUser, ticketId: string, patch: { status?: string; priority?: string; assigneeId?: string | null }): Promise<TicketRow | null> {
@@ -89,6 +97,21 @@ export async function updateTicket(user: CurrentUser, ticketId: string, patch: {
   if (patch.assigneeId !== undefined) { sets.push("assignee_id = ?"); params.push(patch.assigneeId); }
   params.push(ticketId);
   await execute(`UPDATE tickets SET ${sets.join(", ")} WHERE id = ?`, params);
+  if (patch.status === "resolved" && ticket.status !== "resolved") {
+    await sendMail({
+      to: ticket.requester_email,
+      subject: `Your ticket #${ticket.number} is resolved`,
+      text: `Hi ${ticket.requester_name},\n\n${user.name} marked "${ticket.subject}" as resolved. If it is not, reply in the portal and it reopens.\n\nHow did we do? Rate this ticket from 1 to 5: ${appUrl(`/portal/tickets/${ticketId}`)}\n\n${user.orgName} support, on Marrowstone Desk`,
+    });
+  }
+  return getTicket(user, ticketId);
+}
+
+export async function rateTicket(user: CurrentUser, ticketId: string, score: number): Promise<TicketRow | null> {
+  const ticket = await getTicket(user, ticketId);
+  if (!ticket) return null;
+  if (ticket.status !== "resolved" && ticket.status !== "closed") throw new Error("only a resolved ticket can be rated");
+  await execute("UPDATE tickets SET csat_score = ?, updated_at = ? WHERE id = ?", [score, now(), ticketId]);
   return getTicket(user, ticketId);
 }
 

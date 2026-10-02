@@ -27,7 +27,7 @@ export default function Pricing() {
       <section style={{ marginTop: 48, background: "#fff", border: "1px solid #D9DFE3", borderRadius: 12, padding: 24 }}>
         <h2 style={{ margin: "0 0 6px", fontSize: 18 }}>Questions before you choose?</h2>
         <p style={{ margin: 0, color: "#4A5661", fontSize: 14 }}>
-          Write to sales@marrowstone.example and a person answers within a business day.
+          <Link href="/ask">Ask the assistant</Link>, or write to sales@marrowstone.example and a person answers within a business day.
         </p>
       </section>
     </main>
