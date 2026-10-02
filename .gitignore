@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+*.log
+.env*
+!.env.example
+.DS_Store
+data/*.db
+data/*.db-journal
+kb/images/
