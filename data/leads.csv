@@ -1,501 +1,501 @@
 company,domain,contact_name,contact_email,contact_title,employees,industry,country,source,created_at,status
-Meridian Care,meridiancare.com,Victor Castillo,victor.castillo@meridiancare.com,Customer Success Lead,501-1000,Media,US,trial signup,2026-01-01,new
-Falcon Group,falcongroup.com,Wen Nakamura,wen.nakamura@falcongroup.com,Engineering Manager,201-500,Manufacturing,AU,pricing page,2026-01-01,contacted
-River Industries,riverindustries.co,Tomas Doyle,tomas.doyle@riverindustries.co,Head of Support,201-500,Media,AU,docs,2026-01-01,qualified
+Compass Care,compasscare.com,Victor Castillo,victor.castillo@compasscare.com,Customer Success Lead,501-1000,Media,US,trial signup,2026-01-01,new
+Pine Group,pinegroup.com,Wen Nakamura,wen.nakamura@pinegroup.com,Engineering Manager,201-500,Manufacturing,AU,pricing page,2026-01-01,contacted
+Granite Industries,graniteindustries.co,Tomas Doyle,tomas.doyle@graniteindustries.co,Head of Support,201-500,Media,AU,docs,2026-01-01,qualified
 Delta Finance,deltafinance.co,Olu Zhang,olu.zhang@deltafinance.co,Office Manager,1001-5000,Logistics,US,referral,2026-01-01,new
-River Supply,riversupply.com,Elena Adeyemi,elena.adeyemi@riversupply.com,Engineering Manager,1-10,Logistics,CA,pricing page,2026-01-02,contacted
-Cedar Systems,cedarsystems.com,Noah Costa,noah.costa@cedarsystems.com,IT Manager,1-10,Energy,US,conference,2026-01-02,new
-Compass Logistics,compasslogistics.io,Noah Kowalski,noah.kowalski@compasslogistics.io,Operations Manager,1-10,Software,AU,pricing page,2026-01-02,qualified
-Iron Mobility,ironmobility.co,Wen Zhang,wen.zhang@ironmobility.co,Operations Manager,51-200,Energy,CA,webinar,2026-01-03,new
-North Foods,northfoods.com,Tomas Petrov,tomas.petrov@northfoods.com,CTO,11-50,Media,DE,contact form,2026-01-03,contacted
+Granite Supply,granitesupply.com,Elena Adeyemi,elena.adeyemi@granitesupply.com,Engineering Manager,1-10,Logistics,CA,pricing page,2026-01-02,contacted
+Juniper Systems,junipersystems.com,Noah Costa,noah.costa@junipersystems.com,IT Manager,1-10,Energy,US,conference,2026-01-02,new
+Anchor Logistics,anchorlogistics.io,Noah Kowalski,noah.kowalski@anchorlogistics.io,Operations Manager,1-10,Software,AU,pricing page,2026-01-02,qualified
+North Mobility,northmobility.co,Wen Zhang,wen.zhang@northmobility.co,Operations Manager,51-200,Energy,CA,webinar,2026-01-03,new
+Blue Foods,bluefoods.com,Tomas Petrov,tomas.petrov@bluefoods.com,CTO,11-50,Media,DE,contact form,2026-01-03,contacted
 Nova Analytics,novaanalytics.com,Victor Nakamura,victor.nakamura@novaanalytics.com,IT Manager,51-200,Manufacturing,DE,docs,2026-01-03,qualified
-Maple Finance,maplefinance.co,Ingrid Fischer,ingrid.fischer@maplefinance.co,Support Team Lead,201-500,Healthcare,US,contact form,2026-01-03,unqualified
+River Finance,riverfinance.co,Ingrid Fischer,ingrid.fischer@riverfinance.co,Support Team Lead,201-500,Healthcare,US,contact form,2026-01-03,unqualified
 Bright Finance,brightfinance.co,Dmitri Nakamura,dmitri.nakamura@brightfinance.co,CTO,11-50,Healthcare,US,contact form,2026-01-04,unqualified
-Orbit Foods,orbitfoods.com,Victor Delgado,victor.delgado@orbitfoods.com,Support Manager,501-1000,Healthcare,US,referral,2026-01-04,new
-Atlas Labs,atlaslabs.co,Rosa Fischer,rosa.fischer@atlaslabs.co,Head of Support,51-200,Professional services,CA,conference,2026-01-04,contacted
-Copper Capital,coppercapital.com,Aisha Petrov,aisha.petrov@coppercapital.com,Operations Manager,501-1000,Retail,CA,conference,2026-01-05,unqualified
-Blue Robotics,bluerobotics.com,Sam Moreau,sam.moreau@bluerobotics.com,Head of Support,1-10,Professional services,US,webinar,2026-01-05,qualified
-Harbor Works,harborworks.com,Aisha Haddad,aisha.haddad@harborworks.com,Founder,1001-5000,Logistics,US,referral,2026-01-05,contacted
-Lumen Goods,lumengoods.com,Dmitri Zhang,dmitri.zhang@lumengoods.com,CTO,1001-5000,Logistics,US,conference,2026-01-05,new
-Vector Supply,vectorsupply.io,Zoe Romero,zoe.romero@vectorsupply.io,CTO,501-1000,Professional services,US,docs,2026-01-06,contacted
-Blue Energy,blueenergy.co,Jamal Fischer,jamal.fischer@blueenergy.co,Director of Operations,11-50,Media,DE,referral,2026-01-06,new
-Silver Analytics,silveranalytics.com,Zoe Haddad,zoe.haddad@silveranalytics.com,Operations Manager,1001-5000,Media,US,pricing page,2026-01-07,new
-Harbor Networks,harbornetworks.com,Luis Okafor,luis.okafor@harbornetworks.com,Operations Manager,1-10,Healthcare,CA,webinar,2026-01-08,new
-Beacon Dental,beacondental.com,Noah Tanaka,noah.tanaka@beacondental.com,Operations Manager,11-50,Professional services,US,pricing page,2026-01-08,new
-Anchor Labs,anchorlabs.com,Yusuf Kowalski,yusuf.kowalski@anchorlabs.com,VP Customer Experience,1001-5000,Software,US,docs,2026-01-09,new
-Pine Analytics,pineanalytics.co,Victor Novak,victor.novak@pineanalytics.co,Engineering Manager,1-10,Healthcare,NL,trial signup,2026-01-09,contacted
-Granite Software,granitesoftware.com,Noah Rahman,noah.rahman@granitesoftware.com,Founder,51-200,Energy,NL,trial signup,2026-01-09,unqualified
+Atlas Foods,atlasfoods.com,Victor Delgado,victor.delgado@atlasfoods.com,Support Manager,501-1000,Healthcare,US,referral,2026-01-04,new
+Meridian Labs,meridianlabs.co,Rosa Fischer,rosa.fischer@meridianlabs.co,Head of Support,51-200,Professional services,CA,conference,2026-01-04,contacted
+Maple Capital,maplecapital.com,Aisha Petrov,aisha.petrov@maplecapital.com,Operations Manager,501-1000,Retail,CA,conference,2026-01-05,unqualified
+Summit Robotics,summitrobotics.com,Sam Moreau,sam.moreau@summitrobotics.com,Head of Support,1-10,Professional services,US,webinar,2026-01-05,qualified
+Cedar Works,cedarworks.com,Aisha Haddad,aisha.haddad@cedarworks.com,Founder,1001-5000,Logistics,US,referral,2026-01-05,contacted
+Orbit Goods,orbitgoods.com,Dmitri Zhang,dmitri.zhang@orbitgoods.com,CTO,1001-5000,Logistics,US,conference,2026-01-05,new
+Lumen Supply,lumensupply.io,Zoe Romero,zoe.romero@lumensupply.io,CTO,501-1000,Professional services,US,docs,2026-01-06,contacted
+Summit Energy,summitenergy.co,Jamal Fischer,jamal.fischer@summitenergy.co,Director of Operations,11-50,Media,DE,referral,2026-01-06,new
+Copper Analytics,copperanalytics.com,Zoe Haddad,zoe.haddad@copperanalytics.com,Operations Manager,1001-5000,Media,US,pricing page,2026-01-07,new
+Cedar Networks,cedarnetworks.com,Luis Okafor,luis.okafor@cedarnetworks.com,Operations Manager,1-10,Healthcare,CA,webinar,2026-01-08,new
+Falcon Dental,falcondental.com,Noah Tanaka,noah.tanaka@falcondental.com,Operations Manager,11-50,Professional services,US,pricing page,2026-01-08,new
+Beacon Labs,beaconlabs.com,Yusuf Kowalski,yusuf.kowalski@beaconlabs.com,VP Customer Experience,1001-5000,Software,US,docs,2026-01-09,new
+Oak Analytics,oakanalytics.co,Victor Novak,victor.novak@oakanalytics.co,Engineering Manager,1-10,Healthcare,NL,trial signup,2026-01-09,contacted
+Iron Software,ironsoftware.com,Noah Rahman,noah.rahman@ironsoftware.com,Founder,51-200,Energy,NL,trial signup,2026-01-09,unqualified
 Nova Energy,novaenergy.io,Farid Castillo,farid.castillo@novaenergy.io,Director of Operations,501-1000,Healthcare,US,pricing page,2026-01-09,new
-Maple Insurance,mapleinsurance.io,Ingrid Varga,ingrid.varga@mapleinsurance.io,IT Manager,201-500,Media,US,contact form,2026-01-10,new
-Granite Group,granitegroup.com,Noah Nakamura,noah.nakamura@granitegroup.com,Operations Manager,11-50,Logistics,US,conference,2026-01-10,new
+River Insurance,riverinsurance.io,Ingrid Varga,ingrid.varga@riverinsurance.io,IT Manager,201-500,Media,US,contact form,2026-01-10,new
+Iron Group,irongroup.com,Noah Nakamura,noah.nakamura@irongroup.com,Operations Manager,11-50,Logistics,US,conference,2026-01-10,new
 Nova Industries,novaindustries.co,Rosa Moreau,rosa.moreau@novaindustries.co,Support Team Lead,11-50,Media,CA,referral,2026-01-11,new
-Summit Payroll,summitpayroll.com,Dmitri Tanaka,dmitri.tanaka@summitpayroll.com,Founder,1-10,Education,CA,trial signup,2026-01-12,qualified
-Summit Industries,summitindustries.co,Keiko Costa,keiko.costa@summitindustries.co,CTO,1001-5000,Energy,US,docs,2026-01-13,qualified
+Harbor Payroll,harborpayroll.com,Dmitri Tanaka,dmitri.tanaka@harborpayroll.com,Founder,1-10,Education,CA,trial signup,2026-01-12,qualified
+Harbor Industries,harborindustries.co,Keiko Costa,keiko.costa@harborindustries.co,CTO,1001-5000,Energy,US,docs,2026-01-13,qualified
 Ridge Systems,ridgesystems.com,Wen Varga,wen.varga@ridgesystems.com,Director of Operations,501-1000,Software,US,contact form,2026-01-13,qualified
 Tide Studio,tidestudio.com,Carla Novak,carla.novak@tidestudio.com,Support Manager,11-50,Professional services,US,conference,2026-01-13,qualified
-Meridian Legal,meridianlegal.co,Grace Lindqvist,grace.lindqvist@meridianlegal.co,CTO,51-200,Fintech,NL,webinar,2026-01-14,unqualified
+Compass Legal,compasslegal.co,Grace Lindqvist,grace.lindqvist@compasslegal.co,CTO,51-200,Fintech,NL,webinar,2026-01-14,unqualified
 Ridge Care,ridgecare.com,Dmitri Larsen,dmitri.larsen@ridgecare.com,Office Manager,1-10,Healthcare,AU,conference,2026-01-14,qualified
 Prime Supply,primesupply.com,Grace Delgado,grace.delgado@primesupply.com,Engineering Manager,11-50,Fintech,DE,webinar,2026-01-15,new
 Ridge Learning,ridgelearning.com,Noah Brennan,noah.brennan@ridgelearning.com,Founder,501-1000,Manufacturing,CA,conference,2026-01-16,new
-Granite Clinics,graniteclinics.com,Ingrid Larsen,ingrid.larsen@graniteclinics.com,Support Team Lead,11-50,Retail,AU,conference,2026-01-17,new
-Iron Capital,ironcapital.com,Aisha Silva,aisha.silva@ironcapital.com,CTO,201-500,Energy,AU,trial signup,2026-01-17,contacted
-Orbit Mobility,orbitmobility.com,Keiko Nakamura,keiko.nakamura@orbitmobility.com,Operations Manager,51-200,Media,DE,trial signup,2026-01-17,new
-Atlas Partners,atlaspartners.io,Ingrid Nakamura,ingrid.nakamura@atlaspartners.io,Customer Success Lead,51-200,Fintech,DE,contact form,2026-01-18,qualified
+Iron Clinics,ironclinics.com,Ingrid Larsen,ingrid.larsen@ironclinics.com,Support Team Lead,11-50,Retail,AU,conference,2026-01-17,new
+North Capital,northcapital.com,Aisha Silva,aisha.silva@northcapital.com,CTO,201-500,Energy,AU,trial signup,2026-01-17,contacted
+Atlas Mobility,atlasmobility.com,Keiko Nakamura,keiko.nakamura@atlasmobility.com,Operations Manager,51-200,Media,DE,trial signup,2026-01-17,new
+Meridian Partners,meridianpartners.io,Ingrid Nakamura,ingrid.nakamura@meridianpartners.io,Customer Success Lead,51-200,Fintech,DE,contact form,2026-01-18,qualified
 Nova Networks,novanetworks.com,Noah Iyer,noah.iyer@novanetworks.com,Head of Support,201-500,Healthcare,US,conference,2026-01-18,new
-Silver Care,silvercare.com,Uma Kowalski,uma.kowalski@silvercare.com,CTO,201-500,Logistics,CA,referral,2026-01-19,new
-River Insurance,riverinsurance.com,Noah Haddad,noah.haddad@riverinsurance.com,Operations Manager,201-500,Retail,AU,trial signup,2026-01-20,contacted
-Iron Energy,ironenergy.co,Carla Nakamura,carla.nakamura@ironenergy.co,Support Team Lead,201-500,Retail,US,docs,2026-01-22,new
+Copper Care,coppercare.com,Uma Kowalski,uma.kowalski@coppercare.com,CTO,201-500,Logistics,CA,referral,2026-01-19,new
+Granite Insurance,graniteinsurance.com,Noah Haddad,noah.haddad@graniteinsurance.com,Operations Manager,201-500,Retail,AU,trial signup,2026-01-20,contacted
+North Energy,northenergy.co,Carla Nakamura,carla.nakamura@northenergy.co,Support Team Lead,201-500,Retail,US,docs,2026-01-22,new
 Nova Care,novacare.com,Olu Haddad,olu.haddad@novacare.com,Operations Manager,201-500,Retail,US,webinar,2026-01-22,unqualified
 Ridge Foods,ridgefoods.co,Grace Costa,grace.costa@ridgefoods.co,Customer Success Lead,1-10,Logistics,US,docs,2026-01-22,qualified
-Iron Analytics,ironanalytics.com,Victor Novak,victor.novak@ironanalytics.com,Support Manager,501-1000,Media,NL,trial signup,2026-01-23,new
-Pine Mobility,pinemobility.com,Hugo Varga,hugo.varga@pinemobility.com,CTO,201-500,Professional services,CA,conference,2026-01-23,new
-Blue Finance,bluefinance.com,Rosa Varga,rosa.varga@bluefinance.com,Customer Success Lead,501-1000,Manufacturing,US,contact form,2026-01-23,contacted
+North Analytics,northanalytics.com,Victor Novak,victor.novak@northanalytics.com,Support Manager,501-1000,Media,NL,trial signup,2026-01-23,new
+Oak Mobility,oakmobility.com,Hugo Varga,hugo.varga@oakmobility.com,CTO,201-500,Professional services,CA,conference,2026-01-23,new
+Summit Finance,summitfinance.com,Rosa Varga,rosa.varga@summitfinance.com,Customer Success Lead,501-1000,Manufacturing,US,contact form,2026-01-23,contacted
 Delta Mobility,deltamobility.co,Hugo Petrov,hugo.petrov@deltamobility.co,Founder,201-500,Media,NL,trial signup,2026-01-23,new
-Meridian Supply,meridiansupply.co,Priya Okafor,priya.okafor@meridiansupply.co,IT Manager,51-200,Education,CA,pricing page,2026-01-23,new
-Silver Industries,silverindustries.io,Priya Iyer,priya.iyer@silverindustries.io,Director of Operations,51-200,Fintech,AU,webinar,2026-01-24,qualified
-Meridian Works,meridianworks.com,Noah Okafor,noah.okafor@meridianworks.com,CTO,1001-5000,Energy,US,conference,2026-01-25,qualified
-Oak Software,oaksoftware.com,Grace Fischer,grace.fischer@oaksoftware.com,CTO,501-1000,Media,NL,conference,2026-01-25,qualified
-Iron Industries,ironindustries.com,Priya Rahman,priya.rahman@ironindustries.com,Founder,11-50,Software,US,webinar,2026-01-26,contacted
-Copper Finance,copperfinance.io,Hugo Silva,hugo.silva@copperfinance.io,VP Customer Experience,1-10,Professional services,GB,referral,2026-01-27,unqualified
-Falcon Foods,falconfoods.com,Farid Romero,farid.romero@falconfoods.com,Support Team Lead,501-1000,Professional services,US,pricing page,2026-01-28,contacted
-Pine Clinics,pineclinics.co,Luis Delgado,luis.delgado@pineclinics.co,Operations Manager,11-50,Retail,DE,pricing page,2026-01-28,contacted
-North Studio,northstudio.com,Aisha Larsen,aisha.larsen@northstudio.com,Support Team Lead,51-200,Retail,CA,trial signup,2026-01-28,new
-Beacon Goods,beacongoods.com,Priya Kowalski,priya.kowalski@beacongoods.com,Office Manager,11-50,Software,US,webinar,2026-01-28,new
-Blue Payroll,bluepayroll.com,Jamal Zhang,jamal.zhang@bluepayroll.com,Head of Support,201-500,Logistics,US,docs,2026-02-01,new
-Cedar Care,cedarcare.com,Victor Romero,victor.romero@cedarcare.com,IT Manager,11-50,Fintech,US,webinar,2026-02-01,qualified
-Granite Networks,granitenetworks.co,Rosa Okafor,rosa.okafor@granitenetworks.co,Operations Manager,501-1000,Professional services,AU,pricing page,2026-02-01,unqualified
-Iron Group,irongroup.io,Noah Varga,noah.varga@irongroup.io,IT Manager,11-50,Logistics,GB,pricing page,2026-02-01,new
-Harbor Security,harborsecurity.co,Uma Rahman,uma.rahman@harborsecurity.co,Director of Operations,1-10,Logistics,US,docs,2026-02-01,new
-Silver Dental,silverdental.com,Ingrid Larsen,ingrid.larsen@silverdental.com,Founder,1-10,Logistics,AU,trial signup,2026-02-03,new
-Anchor Logistics,anchorlogistics.com,Zoe Novak,zoe.novak@anchorlogistics.com,IT Manager,51-200,Professional services,GB,contact form,2026-02-03,new
+Compass Supply,compasssupply.co,Priya Okafor,priya.okafor@compasssupply.co,IT Manager,51-200,Education,CA,pricing page,2026-01-23,new
+Copper Industries,copperindustries.io,Priya Iyer,priya.iyer@copperindustries.io,Director of Operations,51-200,Fintech,AU,webinar,2026-01-24,qualified
+Compass Works,compassworks.com,Noah Okafor,noah.okafor@compassworks.com,CTO,1001-5000,Energy,US,conference,2026-01-25,qualified
+Silver Software,silversoftware.com,Grace Fischer,grace.fischer@silversoftware.com,CTO,501-1000,Media,NL,conference,2026-01-25,qualified
+North Industries,northindustries.com,Priya Rahman,priya.rahman@northindustries.com,Founder,11-50,Software,US,webinar,2026-01-26,contacted
+Maple Finance,maplefinance.io,Hugo Silva,hugo.silva@maplefinance.io,VP Customer Experience,1-10,Professional services,GB,referral,2026-01-27,unqualified
+Pine Foods,pinefoods.com,Farid Romero,farid.romero@pinefoods.com,Support Team Lead,501-1000,Professional services,US,pricing page,2026-01-28,contacted
+Oak Clinics,oakclinics.co,Luis Delgado,luis.delgado@oakclinics.co,Operations Manager,11-50,Retail,DE,pricing page,2026-01-28,contacted
+Blue Studio,bluestudio.com,Aisha Larsen,aisha.larsen@bluestudio.com,Support Team Lead,51-200,Retail,CA,trial signup,2026-01-28,new
+Falcon Goods,falcongoods.com,Priya Kowalski,priya.kowalski@falcongoods.com,Office Manager,11-50,Software,US,webinar,2026-01-28,new
+Summit Payroll,summitpayroll.com,Jamal Zhang,jamal.zhang@summitpayroll.com,Head of Support,201-500,Logistics,US,docs,2026-02-01,new
+Juniper Care,junipercare.com,Victor Romero,victor.romero@junipercare.com,IT Manager,11-50,Fintech,US,webinar,2026-02-01,qualified
+Iron Networks,ironnetworks.co,Rosa Okafor,rosa.okafor@ironnetworks.co,Operations Manager,501-1000,Professional services,AU,pricing page,2026-02-01,unqualified
+North Group,northgroup.io,Noah Varga,noah.varga@northgroup.io,IT Manager,11-50,Logistics,GB,pricing page,2026-02-01,new
+Cedar Security,cedarsecurity.co,Uma Rahman,uma.rahman@cedarsecurity.co,Director of Operations,1-10,Logistics,US,docs,2026-02-01,new
+Copper Dental,copperdental.com,Ingrid Larsen,ingrid.larsen@copperdental.com,Founder,1-10,Logistics,AU,trial signup,2026-02-03,new
+Beacon Logistics,beaconlogistics.com,Zoe Novak,zoe.novak@beaconlogistics.com,IT Manager,51-200,Professional services,GB,contact form,2026-02-03,new
 Apex Media,apexmedia.com,Ingrid Rahman,ingrid.rahman@apexmedia.com,VP Customer Experience,51-200,Retail,AU,pricing page,2026-02-03,unqualified
-River Dental,riverdental.io,Grace Zhang,grace.zhang@riverdental.io,Support Team Lead,1001-5000,Manufacturing,GB,docs,2026-02-04,contacted
-River Media,rivermedia.co,Farid Tanaka,farid.tanaka@rivermedia.co,Engineering Manager,1-10,Healthcare,NL,referral,2026-02-05,unqualified
-Summit Security,summitsecurity.com,Aisha Varga,aisha.varga@summitsecurity.com,CTO,1001-5000,Healthcare,US,trial signup,2026-02-05,new
-Silver Legal,silverlegal.io,Dmitri Novak,dmitri.novak@silverlegal.io,Founder,51-200,Software,US,contact form,2026-02-05,new
-Copper Freight,copperfreight.io,Noah Costa,noah.costa@copperfreight.io,Support Manager,201-500,Retail,GB,referral,2026-02-06,qualified
+Granite Dental,granitedental.io,Grace Zhang,grace.zhang@granitedental.io,Support Team Lead,1001-5000,Manufacturing,GB,docs,2026-02-04,contacted
+Granite Media,granitemedia.co,Farid Tanaka,farid.tanaka@granitemedia.co,Engineering Manager,1-10,Healthcare,NL,referral,2026-02-05,unqualified
+Harbor Security,harborsecurity.com,Aisha Varga,aisha.varga@harborsecurity.com,CTO,1001-5000,Healthcare,US,trial signup,2026-02-05,new
+Copper Legal,copperlegal.io,Dmitri Novak,dmitri.novak@copperlegal.io,Founder,51-200,Software,US,contact form,2026-02-05,new
+Maple Freight,maplefreight.io,Noah Costa,noah.costa@maplefreight.io,Support Manager,201-500,Retail,GB,referral,2026-02-06,qualified
 Prime Clinics,primeclinics.com,Ben Kowalski,ben.kowalski@primeclinics.com,IT Manager,201-500,Media,DE,referral,2026-02-06,qualified
-Blue Studio,bluestudio.io,Noah Novak,noah.novak@bluestudio.io,Customer Success Lead,11-50,Logistics,NL,contact form,2026-02-07,new
-Anchor Insurance,anchorinsurance.com,Carla Fischer,carla.fischer@anchorinsurance.com,Director of Operations,201-500,Energy,DE,docs,2026-02-09,contacted
+Summit Studio,summitstudio.io,Noah Novak,noah.novak@summitstudio.io,Customer Success Lead,11-50,Logistics,NL,contact form,2026-02-07,new
+Beacon Insurance,beaconinsurance.com,Carla Fischer,carla.fischer@beaconinsurance.com,Director of Operations,201-500,Energy,DE,docs,2026-02-09,contacted
 Bright Software,brightsoftware.co,Noah Silva,noah.silva@brightsoftware.co,Support Manager,1-10,Healthcare,US,webinar,2026-02-09,qualified
-Summit Capital,summitcapital.com,Yusuf Delgado,yusuf.delgado@summitcapital.com,VP Customer Experience,11-50,Fintech,NL,trial signup,2026-02-10,contacted
-Meridian Logistics,meridianlogistics.com,Zoe Fischer,zoe.fischer@meridianlogistics.com,Support Team Lead,201-500,Retail,NL,docs,2026-02-10,new
-Beacon Media,beaconmedia.com,Keiko Fischer,keiko.fischer@beaconmedia.com,Customer Success Lead,1-10,Professional services,US,referral,2026-02-11,unqualified
-Orbit Labs,orbitlabs.co,Sam Lindqvist,sam.lindqvist@orbitlabs.co,Operations Manager,1-10,Healthcare,GB,pricing page,2026-02-11,new
+Harbor Capital,harborcapital.com,Yusuf Delgado,yusuf.delgado@harborcapital.com,VP Customer Experience,11-50,Fintech,NL,trial signup,2026-02-10,contacted
+Compass Logistics,compasslogistics.com,Zoe Fischer,zoe.fischer@compasslogistics.com,Support Team Lead,201-500,Retail,NL,docs,2026-02-10,new
+Falcon Media,falconmedia.com,Keiko Fischer,keiko.fischer@falconmedia.com,Customer Success Lead,1-10,Professional services,US,referral,2026-02-11,unqualified
+Atlas Labs,atlaslabs.co,Sam Lindqvist,sam.lindqvist@atlaslabs.co,Operations Manager,1-10,Healthcare,GB,pricing page,2026-02-11,new
 Echo Labs,echolabs.com,Sam Romero,sam.romero@echolabs.com,Support Team Lead,201-500,Professional services,NL,docs,2026-02-11,qualified
-Meridian Goods,meridiangoods.com,Ingrid Kowalski,ingrid.kowalski@meridiangoods.com,Customer Success Lead,1001-5000,Software,GB,referral,2026-02-11,unqualified
-Pine Studio,pinestudio.co,Elena Brennan,elena.brennan@pinestudio.co,Director of Operations,201-500,Retail,NL,pricing page,2026-02-13,new
-Meridian Mobility,meridianmobility.co,Farid Zhang,farid.zhang@meridianmobility.co,IT Manager,1001-5000,Software,NL,docs,2026-02-13,contacted
-Summit Works,summitworks.co,Wen Silva,wen.silva@summitworks.co,Operations Manager,1001-5000,Energy,US,webinar,2026-02-13,contacted
-Orbit Legal,orbitlegal.com,Priya Haddad,priya.haddad@orbitlegal.com,Operations Manager,51-200,Healthcare,DE,conference,2026-02-14,qualified
+Compass Goods,compassgoods.com,Ingrid Kowalski,ingrid.kowalski@compassgoods.com,Customer Success Lead,1001-5000,Software,GB,referral,2026-02-11,unqualified
+Oak Studio,oakstudio.co,Elena Brennan,elena.brennan@oakstudio.co,Director of Operations,201-500,Retail,NL,pricing page,2026-02-13,new
+Compass Mobility,compassmobility.co,Farid Zhang,farid.zhang@compassmobility.co,IT Manager,1001-5000,Software,NL,docs,2026-02-13,contacted
+Harbor Works,harborworks.co,Wen Silva,wen.silva@harborworks.co,Operations Manager,1001-5000,Energy,US,webinar,2026-02-13,contacted
+Atlas Legal,atlaslegal.com,Priya Haddad,priya.haddad@atlaslegal.com,Operations Manager,51-200,Healthcare,DE,conference,2026-02-14,qualified
 Ridge Media,ridgemedia.com,Dmitri Mensah,dmitri.mensah@ridgemedia.com,Head of Support,1-10,Media,US,contact form,2026-02-15,new
-Meridian Energy,meridianenergy.com,Carla Nakamura,carla.nakamura@meridianenergy.com,Office Manager,11-50,Manufacturing,DE,webinar,2026-02-16,contacted
-Cedar Supply,cedarsupply.io,Ben Romero,ben.romero@cedarsupply.io,IT Manager,501-1000,Energy,AU,conference,2026-02-17,new
-Anchor Goods,anchorgoods.com,Jamal Fischer,jamal.fischer@anchorgoods.com,Director of Operations,51-200,Manufacturing,US,webinar,2026-02-17,new
-River Energy,riverenergy.com,Carla Larsen,carla.larsen@riverenergy.com,Founder,1-10,Logistics,US,pricing page,2026-02-18,new
-Maple Health,maplehealth.co,Rosa Larsen,rosa.larsen@maplehealth.co,Operations Manager,11-50,Healthcare,AU,pricing page,2026-02-18,qualified
-Copper Energy,copperenergy.com,Ben Petrov,ben.petrov@copperenergy.com,Operations Manager,1001-5000,Software,AU,trial signup,2026-02-19,qualified
-Copper Logistics,copperlogistics.io,Grace Varga,grace.varga@copperlogistics.io,Support Team Lead,11-50,Retail,US,conference,2026-02-20,contacted
-Oak Foods,oakfoods.com,Jamal Lindqvist,jamal.lindqvist@oakfoods.com,Operations Manager,1001-5000,Retail,NL,conference,2026-02-20,new
-Orbit Energy,orbitenergy.io,Hugo Petrov,hugo.petrov@orbitenergy.io,Customer Success Lead,11-50,Energy,CA,contact form,2026-02-20,qualified
-River Care,rivercare.com,Grace Adeyemi,grace.adeyemi@rivercare.com,Head of Support,1001-5000,Healthcare,US,docs,2026-02-20,new
+Compass Energy,compassenergy.com,Carla Nakamura,carla.nakamura@compassenergy.com,Office Manager,11-50,Manufacturing,DE,webinar,2026-02-16,contacted
+Juniper Supply,junipersupply.io,Ben Romero,ben.romero@junipersupply.io,IT Manager,501-1000,Energy,AU,conference,2026-02-17,new
+Beacon Goods,beacongoods.com,Jamal Fischer,jamal.fischer@beacongoods.com,Director of Operations,51-200,Manufacturing,US,webinar,2026-02-17,new
+Granite Energy,graniteenergy.com,Carla Larsen,carla.larsen@graniteenergy.com,Founder,1-10,Logistics,US,pricing page,2026-02-18,new
+River Health,riverhealth.co,Rosa Larsen,rosa.larsen@riverhealth.co,Operations Manager,11-50,Healthcare,AU,pricing page,2026-02-18,qualified
+Maple Energy,mapleenergy.com,Ben Petrov,ben.petrov@mapleenergy.com,Operations Manager,1001-5000,Software,AU,trial signup,2026-02-19,qualified
+Maple Logistics,maplelogistics.io,Grace Varga,grace.varga@maplelogistics.io,Support Team Lead,11-50,Retail,US,conference,2026-02-20,contacted
+Silver Foods,silverfoods.com,Jamal Lindqvist,jamal.lindqvist@silverfoods.com,Operations Manager,1001-5000,Retail,NL,conference,2026-02-20,new
+Atlas Energy,atlasenergy.io,Hugo Petrov,hugo.petrov@atlasenergy.io,Customer Success Lead,11-50,Energy,CA,contact form,2026-02-20,qualified
+Granite Care,granitecare.com,Grace Adeyemi,grace.adeyemi@granitecare.com,Head of Support,1001-5000,Healthcare,US,docs,2026-02-20,new
 Nova Security,novasecurity.com,Tomas Zhang,tomas.zhang@novasecurity.com,Director of Operations,201-500,Education,AU,pricing page,2026-02-21,qualified
-Oak Mobility,oakmobility.com,Dmitri Adeyemi,dmitri.adeyemi@oakmobility.com,Director of Operations,11-50,Education,DE,contact form,2026-02-22,unqualified
-Pine Robotics,pinerobotics.co,Maya Adeyemi,maya.adeyemi@pinerobotics.co,VP Customer Experience,1-10,Retail,CA,conference,2026-02-26,qualified
-Pine Partners,pinepartners.co,Dmitri Larsen,dmitri.larsen@pinepartners.co,Director of Operations,51-200,Professional services,US,referral,2026-02-26,unqualified
-Atlas Finance,atlasfinance.com,Dmitri Iyer,dmitri.iyer@atlasfinance.com,VP Customer Experience,501-1000,Media,GB,pricing page,2026-02-27,unqualified
-Lumen Finance,lumenfinance.com,Jamal Kowalski,jamal.kowalski@lumenfinance.com,Office Manager,201-500,Professional services,DE,referral,2026-02-27,unqualified
-Harbor Industries,harborindustries.com,Priya Nakamura,priya.nakamura@harborindustries.com,IT Manager,201-500,Logistics,AU,webinar,2026-02-28,new
-Orbit Goods,orbitgoods.com,Maya Nakamura,maya.nakamura@orbitgoods.com,Office Manager,11-50,Software,CA,docs,2026-02-28,unqualified
-Anchor Robotics,anchorrobotics.com,Rosa Iyer,rosa.iyer@anchorrobotics.com,Support Manager,11-50,Media,CA,docs,2026-03-01,contacted
+Silver Mobility,silvermobility.com,Dmitri Adeyemi,dmitri.adeyemi@silvermobility.com,Director of Operations,11-50,Education,DE,contact form,2026-02-22,unqualified
+Oak Robotics,oakrobotics.co,Maya Adeyemi,maya.adeyemi@oakrobotics.co,VP Customer Experience,1-10,Retail,CA,conference,2026-02-26,qualified
+Oak Partners,oakpartners.co,Dmitri Larsen,dmitri.larsen@oakpartners.co,Director of Operations,51-200,Professional services,US,referral,2026-02-26,unqualified
+Meridian Finance,meridianfinance.com,Dmitri Iyer,dmitri.iyer@meridianfinance.com,VP Customer Experience,501-1000,Media,GB,pricing page,2026-02-27,unqualified
+Orbit Finance,orbitfinance.com,Jamal Kowalski,jamal.kowalski@orbitfinance.com,Office Manager,201-500,Professional services,DE,referral,2026-02-27,unqualified
+Cedar Industries,cedarindustries.com,Priya Nakamura,priya.nakamura@cedarindustries.com,IT Manager,201-500,Logistics,AU,webinar,2026-02-28,new
+Atlas Goods,atlasgoods.com,Maya Nakamura,maya.nakamura@atlasgoods.com,Office Manager,11-50,Software,CA,docs,2026-02-28,unqualified
+Beacon Robotics,beaconrobotics.com,Rosa Iyer,rosa.iyer@beaconrobotics.com,Support Manager,11-50,Media,CA,docs,2026-03-01,contacted
 Tide Clinics,tideclinics.com,Yusuf Silva,yusuf.silva@tideclinics.com,Support Team Lead,1001-5000,Education,NL,pricing page,2026-03-01,new
-Lumen Partners,lumenpartners.io,Victor Haddad,victor.haddad@lumenpartners.io,Customer Success Lead,501-1000,Manufacturing,US,contact form,2026-03-02,new
-Granite Insurance,graniteinsurance.com,Tomas Castillo,tomas.castillo@graniteinsurance.com,CTO,11-50,Software,US,webinar,2026-03-02,unqualified
-Falcon Legal,falconlegal.co,Elena Iyer,elena.iyer@falconlegal.co,Customer Success Lead,11-50,Energy,US,pricing page,2026-03-03,new
-Cedar Studio,cedarstudio.io,Keiko Nakamura,keiko.nakamura@cedarstudio.io,Office Manager,1-10,Manufacturing,US,webinar,2026-03-03,contacted
-Maple Clinics,mapleclinics.com,Noah Delgado,noah.delgado@mapleclinics.com,VP Customer Experience,501-1000,Retail,AU,contact form,2026-03-03,contacted
-Copper Networks,coppernetworks.io,Priya Novak,priya.novak@coppernetworks.io,Office Manager,11-50,Logistics,US,trial signup,2026-03-04,contacted
-Copper Goods,coppergoods.io,Yusuf Brennan,yusuf.brennan@coppergoods.io,Support Team Lead,51-200,Education,DE,trial signup,2026-03-04,qualified
+Orbit Partners,orbitpartners.io,Victor Haddad,victor.haddad@orbitpartners.io,Customer Success Lead,501-1000,Manufacturing,US,contact form,2026-03-02,new
+Iron Insurance,ironinsurance.com,Tomas Castillo,tomas.castillo@ironinsurance.com,CTO,11-50,Software,US,webinar,2026-03-02,unqualified
+Pine Legal,pinelegal.co,Elena Iyer,elena.iyer@pinelegal.co,Customer Success Lead,11-50,Energy,US,pricing page,2026-03-03,new
+Juniper Studio,juniperstudio.io,Keiko Nakamura,keiko.nakamura@juniperstudio.io,Office Manager,1-10,Manufacturing,US,webinar,2026-03-03,contacted
+River Clinics,riverclinics.com,Noah Delgado,noah.delgado@riverclinics.com,VP Customer Experience,501-1000,Retail,AU,contact form,2026-03-03,contacted
+Maple Networks,maplenetworks.io,Priya Novak,priya.novak@maplenetworks.io,Office Manager,11-50,Logistics,US,trial signup,2026-03-04,contacted
+Maple Goods,maplegoods.io,Yusuf Brennan,yusuf.brennan@maplegoods.io,Support Team Lead,51-200,Education,DE,trial signup,2026-03-04,qualified
 Tide Legal,tidelegal.io,Sam Rahman,sam.rahman@tidelegal.io,Operations Manager,11-50,Retail,US,webinar,2026-03-05,new
-Orbit Works,orbitworks.com,Olu Mensah,olu.mensah@orbitworks.com,Director of Operations,51-200,Software,AU,trial signup,2026-03-06,unqualified
-Copper Media,coppermedia.com,Ingrid Doyle,ingrid.doyle@coppermedia.com,Director of Operations,1001-5000,Fintech,GB,referral,2026-03-07,unqualified
+Atlas Works,atlasworks.com,Olu Mensah,olu.mensah@atlasworks.com,Director of Operations,51-200,Software,AU,trial signup,2026-03-06,unqualified
+Maple Media,maplemedia.com,Ingrid Doyle,ingrid.doyle@maplemedia.com,Director of Operations,1001-5000,Fintech,GB,referral,2026-03-07,unqualified
 Ridge Legal,ridgelegal.co,Luis Doyle,luis.doyle@ridgelegal.co,IT Manager,11-50,Education,US,docs,2026-03-07,new
-Granite Dental,granitedental.io,Sam Fischer,sam.fischer@granitedental.io,Operations Manager,1001-5000,Software,CA,referral,2026-03-08,new
+Iron Dental,irondental.io,Sam Fischer,sam.fischer@irondental.io,Operations Manager,1001-5000,Software,CA,referral,2026-03-08,new
 Prime Goods,primegoods.co,Rosa Iyer,rosa.iyer@primegoods.co,Head of Support,51-200,Fintech,US,webinar,2026-03-08,new
-Cedar Robotics,cedarrobotics.com,Yusuf Okafor,yusuf.okafor@cedarrobotics.com,Operations Manager,11-50,Education,DE,conference,2026-03-09,qualified
-Summit Freight,summitfreight.com,Sam Lindqvist,sam.lindqvist@summitfreight.com,Office Manager,201-500,Education,US,referral,2026-03-09,qualified
+Juniper Robotics,juniperrobotics.com,Yusuf Okafor,yusuf.okafor@juniperrobotics.com,Operations Manager,11-50,Education,DE,conference,2026-03-09,qualified
+Harbor Freight,harborfreight.com,Sam Lindqvist,sam.lindqvist@harborfreight.com,Office Manager,201-500,Education,US,referral,2026-03-09,qualified
 Ridge Energy,ridgeenergy.co,Ben Novak,ben.novak@ridgeenergy.co,Founder,1001-5000,Healthcare,US,referral,2026-03-09,unqualified
-Falcon Software,falconsoftware.com,Zoe Brennan,zoe.brennan@falconsoftware.com,Operations Manager,1001-5000,Retail,DE,conference,2026-03-10,qualified
-Granite Security,granitesecurity.io,Maya Varga,maya.varga@granitesecurity.io,Founder,11-50,Energy,US,webinar,2026-03-10,new
-Silver Foods,silverfoods.co,Olu Rahman,olu.rahman@silverfoods.co,Head of Support,201-500,Software,NL,webinar,2026-03-10,new
-Copper Group,coppergroup.com,Yusuf Costa,yusuf.costa@coppergroup.com,Founder,501-1000,Logistics,AU,pricing page,2026-03-11,new
-Copper Industries,copperindustries.com,Rosa Varga,rosa.varga@copperindustries.com,Head of Support,51-200,Education,CA,docs,2026-03-11,contacted
-Pine Foods,pinefoods.io,Olu Tanaka,olu.tanaka@pinefoods.io,VP Customer Experience,1-10,Retail,GB,pricing page,2026-03-11,new
+Pine Software,pinesoftware.com,Zoe Brennan,zoe.brennan@pinesoftware.com,Operations Manager,1001-5000,Retail,DE,conference,2026-03-10,qualified
+Iron Security,ironsecurity.io,Maya Varga,maya.varga@ironsecurity.io,Founder,11-50,Energy,US,webinar,2026-03-10,new
+Copper Foods,copperfoods.co,Olu Rahman,olu.rahman@copperfoods.co,Head of Support,201-500,Software,NL,webinar,2026-03-10,new
+Maple Group,maplegroup.com,Yusuf Costa,yusuf.costa@maplegroup.com,Founder,501-1000,Logistics,AU,pricing page,2026-03-11,new
+Maple Industries,mapleindustries.com,Rosa Varga,rosa.varga@mapleindustries.com,Head of Support,51-200,Education,CA,docs,2026-03-11,contacted
+Oak Foods,oakfoods.io,Olu Tanaka,olu.tanaka@oakfoods.io,VP Customer Experience,1-10,Retail,GB,pricing page,2026-03-11,new
 Tide Mobility,tidemobility.co,Uma Delgado,uma.delgado@tidemobility.co,Customer Success Lead,201-500,Software,US,trial signup,2026-03-11,new
 Delta Goods,deltagoods.io,Grace Costa,grace.costa@deltagoods.io,Support Manager,11-50,Media,GB,pricing page,2026-03-11,new
-Iron Media,ironmedia.com,Yusuf Haddad,yusuf.haddad@ironmedia.com,Operations Manager,1001-5000,Manufacturing,NL,referral,2026-03-11,qualified
-Summit Networks,summitnetworks.com,Jamal Iyer,jamal.iyer@summitnetworks.com,Office Manager,201-500,Manufacturing,NL,docs,2026-03-11,new
-Oak Partners,oakpartners.com,Aisha Mensah,aisha.mensah@oakpartners.com,Operations Manager,501-1000,Retail,US,webinar,2026-03-11,unqualified
-Beacon Group,beacongroup.com,Farid Silva,farid.silva@beacongroup.com,IT Manager,51-200,Logistics,US,webinar,2026-03-12,qualified
+North Media,northmedia.com,Yusuf Haddad,yusuf.haddad@northmedia.com,Operations Manager,1001-5000,Manufacturing,NL,referral,2026-03-11,qualified
+Harbor Networks,harbornetworks.com,Jamal Iyer,jamal.iyer@harbornetworks.com,Office Manager,201-500,Manufacturing,NL,docs,2026-03-11,new
+Silver Partners,silverpartners.com,Aisha Mensah,aisha.mensah@silverpartners.com,Operations Manager,501-1000,Retail,US,webinar,2026-03-11,unqualified
+Falcon Group,falcongroup.com,Farid Silva,farid.silva@falcongroup.com,IT Manager,51-200,Logistics,US,webinar,2026-03-12,qualified
 Delta Analytics,deltaanalytics.com,Ingrid Brennan,ingrid.brennan@deltaanalytics.com,Office Manager,1-10,Logistics,NL,webinar,2026-03-12,new
 Delta Logistics,deltalogistics.com,Olu Okafor,olu.okafor@deltalogistics.com,IT Manager,11-50,Retail,US,trial signup,2026-03-13,new
-Silver Software,silversoftware.com,Noah Novak,noah.novak@silversoftware.com,CTO,1-10,Fintech,AU,docs,2026-03-13,new
-Cedar Goods,cedargoods.co,Luis Romero,luis.romero@cedargoods.co,Customer Success Lead,11-50,Software,GB,pricing page,2026-03-14,new
+Copper Software,coppersoftware.com,Noah Novak,noah.novak@coppersoftware.com,CTO,1-10,Fintech,AU,docs,2026-03-13,new
+Juniper Goods,junipergoods.co,Luis Romero,luis.romero@junipergoods.co,Customer Success Lead,11-50,Software,GB,pricing page,2026-03-14,new
 Prime Energy,primeenergy.co,Ben Romero,ben.romero@primeenergy.co,Support Manager,1-10,Logistics,US,webinar,2026-03-14,new
-Atlas Freight,atlasfreight.io,Wen Lindqvist,wen.lindqvist@atlasfreight.io,Engineering Manager,1001-5000,Retail,AU,trial signup,2026-03-15,new
-Oak Health,oakhealth.com,Dmitri Larsen,dmitri.larsen@oakhealth.com,Engineering Manager,201-500,Education,GB,pricing page,2026-03-16,new
-Anchor Clinics,anchorclinics.com,Priya Nakamura,priya.nakamura@anchorclinics.com,Founder,51-200,Professional services,AU,contact form,2026-03-16,new
+Meridian Freight,meridianfreight.io,Wen Lindqvist,wen.lindqvist@meridianfreight.io,Engineering Manager,1001-5000,Retail,AU,trial signup,2026-03-15,new
+Silver Health,silverhealth.com,Dmitri Larsen,dmitri.larsen@silverhealth.com,Engineering Manager,201-500,Education,GB,pricing page,2026-03-16,new
+Beacon Clinics,beaconclinics.com,Priya Nakamura,priya.nakamura@beaconclinics.com,Founder,51-200,Professional services,AU,contact form,2026-03-16,new
 Apex Networks,apexnetworks.io,Dmitri Novak,dmitri.novak@apexnetworks.io,Support Manager,501-1000,Healthcare,US,pricing page,2026-03-16,new
 Bright Systems,brightsystems.io,Luis Rahman,luis.rahman@brightsystems.io,Engineering Manager,11-50,Software,DE,conference,2026-03-16,contacted
-Falcon Networks,falconnetworks.io,Olu Romero,olu.romero@falconnetworks.io,Head of Support,1001-5000,Software,US,webinar,2026-03-17,unqualified
+Pine Networks,pinenetworks.io,Olu Romero,olu.romero@pinenetworks.io,Head of Support,1001-5000,Software,US,webinar,2026-03-17,unqualified
 Ridge Freight,ridgefreight.com,Sam Fischer,sam.fischer@ridgefreight.com,Founder,501-1000,Energy,US,trial signup,2026-03-17,new
-Lumen Industries,lumenindustries.com,Farid Zhang,farid.zhang@lumenindustries.com,Support Manager,501-1000,Logistics,GB,referral,2026-03-18,unqualified
+Orbit Industries,orbitindustries.com,Farid Zhang,farid.zhang@orbitindustries.com,Support Manager,501-1000,Logistics,GB,referral,2026-03-18,unqualified
 Prime Works,primeworks.com,Elena Haddad,elena.haddad@primeworks.com,Operations Manager,1001-5000,Software,DE,contact form,2026-03-20,contacted
-Harbor Robotics,harborrobotics.com,Farid Rahman,farid.rahman@harborrobotics.com,Support Team Lead,501-1000,Software,AU,trial signup,2026-03-20,new
-Atlas Capital,atlascapital.com,Tomas Castillo,tomas.castillo@atlascapital.com,Engineering Manager,11-50,Retail,GB,docs,2026-03-20,new
+Cedar Robotics,cedarrobotics.com,Farid Rahman,farid.rahman@cedarrobotics.com,Support Team Lead,501-1000,Software,AU,trial signup,2026-03-20,new
+Meridian Capital,meridiancapital.com,Tomas Castillo,tomas.castillo@meridiancapital.com,Engineering Manager,11-50,Retail,GB,docs,2026-03-20,new
 Apex Industries,apexindustries.com,Luis Kowalski,luis.kowalski@apexindustries.com,Engineering Manager,11-50,Logistics,NL,conference,2026-03-21,new
-Harbor Software,harborsoftware.com,Rosa Zhang,rosa.zhang@harborsoftware.com,Director of Operations,201-500,Retail,DE,conference,2026-03-21,new
-Beacon Payroll,beaconpayroll.com,Zoe Tanaka,zoe.tanaka@beaconpayroll.com,Head of Support,1001-5000,Retail,AU,referral,2026-03-22,qualified
-North Clinics,northclinics.com,Jamal Doyle,jamal.doyle@northclinics.com,Office Manager,201-500,Healthcare,GB,docs,2026-03-23,new
-North Labs,northlabs.co,Keiko Moreau,keiko.moreau@northlabs.co,IT Manager,201-500,Media,CA,trial signup,2026-03-23,new
-Meridian Foods,meridianfoods.io,Keiko Haddad,keiko.haddad@meridianfoods.io,Engineering Manager,501-1000,Professional services,CA,pricing page,2026-03-24,new
+Cedar Software,cedarsoftware.com,Rosa Zhang,rosa.zhang@cedarsoftware.com,Director of Operations,201-500,Retail,DE,conference,2026-03-21,new
+Falcon Payroll,falconpayroll.com,Zoe Tanaka,zoe.tanaka@falconpayroll.com,Head of Support,1001-5000,Retail,AU,referral,2026-03-22,qualified
+Blue Clinics,blueclinics.com,Jamal Doyle,jamal.doyle@blueclinics.com,Office Manager,201-500,Healthcare,GB,docs,2026-03-23,new
+Blue Labs,bluelabs.co,Keiko Moreau,keiko.moreau@bluelabs.co,IT Manager,201-500,Media,CA,trial signup,2026-03-23,new
+Compass Foods,compassfoods.io,Keiko Haddad,keiko.haddad@compassfoods.io,Engineering Manager,501-1000,Professional services,CA,pricing page,2026-03-24,new
 Nova Studio,novastudio.co,Wen Castillo,wen.castillo@novastudio.co,Engineering Manager,501-1000,Software,US,trial signup,2026-03-24,new
-Silver Learning,silverlearning.com,Olu Fischer,olu.fischer@silverlearning.com,IT Manager,201-500,Healthcare,NL,trial signup,2026-03-24,new
-Lumen Software,lumensoftware.com,Aisha Silva,aisha.silva@lumensoftware.com,Founder,501-1000,Healthcare,CA,webinar,2026-03-25,unqualified
-Orbit Partners,orbitpartners.com,Jamal Varga,jamal.varga@orbitpartners.com,Founder,501-1000,Fintech,NL,conference,2026-03-25,new
+Copper Learning,copperlearning.com,Olu Fischer,olu.fischer@copperlearning.com,IT Manager,201-500,Healthcare,NL,trial signup,2026-03-24,new
+Orbit Software,orbitsoftware.com,Aisha Silva,aisha.silva@orbitsoftware.com,Founder,501-1000,Healthcare,CA,webinar,2026-03-25,unqualified
+Atlas Partners,atlaspartners.com,Jamal Varga,jamal.varga@atlaspartners.com,Founder,501-1000,Fintech,NL,conference,2026-03-25,new
 Bright Robotics,brightrobotics.com,Zoe Fischer,zoe.fischer@brightrobotics.com,Head of Support,201-500,Logistics,US,contact form,2026-03-26,new
-Compass Studio,compassstudio.co,Aisha Costa,aisha.costa@compassstudio.co,Support Team Lead,501-1000,Media,AU,trial signup,2026-03-27,unqualified
+Anchor Studio,anchorstudio.co,Aisha Costa,aisha.costa@anchorstudio.co,Support Team Lead,501-1000,Media,AU,trial signup,2026-03-27,unqualified
 Apex Studio,apexstudio.com,Priya Petrov,priya.petrov@apexstudio.com,Customer Success Lead,201-500,Energy,NL,webinar,2026-03-27,new
-Meridian Partners,meridianpartners.co,Elena Silva,elena.silva@meridianpartners.co,Director of Operations,1001-5000,Healthcare,US,contact form,2026-03-27,new
-Anchor Payroll,anchorpayroll.com,Olu Mensah,olu.mensah@anchorpayroll.com,Head of Support,51-200,Logistics,CA,referral,2026-03-28,new
-Granite Supply,granitesupply.com,Luis Brennan,luis.brennan@granitesupply.com,Support Team Lead,11-50,Healthcare,NL,webinar,2026-04-02,new
+Compass Partners,compasspartners.co,Elena Silva,elena.silva@compasspartners.co,Director of Operations,1001-5000,Healthcare,US,contact form,2026-03-27,new
+Beacon Payroll,beaconpayroll.com,Olu Mensah,olu.mensah@beaconpayroll.com,Head of Support,51-200,Logistics,CA,referral,2026-03-28,new
+Iron Supply,ironsupply.com,Luis Brennan,luis.brennan@ironsupply.com,Support Team Lead,11-50,Healthcare,NL,webinar,2026-04-02,new
 Echo Works,echoworks.com,Ben Iyer,ben.iyer@echoworks.com,Support Manager,51-200,Education,AU,contact form,2026-04-02,contacted
-Pine Networks,pinenetworks.com,Grace Zhang,grace.zhang@pinenetworks.com,CTO,1001-5000,Education,DE,contact form,2026-04-02,qualified
-Oak Energy,oakenergy.com,Wen Silva,wen.silva@oakenergy.com,Head of Support,51-200,Professional services,US,conference,2026-04-02,new
-Copper Clinics,copperclinics.com,Grace Varga,grace.varga@copperclinics.com,Head of Support,1-10,Logistics,US,contact form,2026-04-03,contacted
-Silver Labs,silverlabs.io,Jamal Haddad,jamal.haddad@silverlabs.io,Customer Success Lead,1-10,Logistics,NL,contact form,2026-04-03,new
-Iron Legal,ironlegal.co,Yusuf Moreau,yusuf.moreau@ironlegal.co,Operations Manager,11-50,Logistics,AU,docs,2026-04-03,new
-Beacon Systems,beaconsystems.com,Maya Doyle,maya.doyle@beaconsystems.com,IT Manager,501-1000,Energy,NL,pricing page,2026-04-04,qualified
-Iron Systems,ironsystems.com,Grace Lindqvist,grace.lindqvist@ironsystems.com,Head of Support,51-200,Energy,US,conference,2026-04-05,contacted
+Oak Networks,oaknetworks.com,Grace Zhang,grace.zhang@oaknetworks.com,CTO,1001-5000,Education,DE,contact form,2026-04-02,qualified
+Silver Energy,silverenergy.com,Wen Silva,wen.silva@silverenergy.com,Head of Support,51-200,Professional services,US,conference,2026-04-02,new
+Maple Clinics,mapleclinics.com,Grace Varga,grace.varga@mapleclinics.com,Head of Support,1-10,Logistics,US,contact form,2026-04-03,contacted
+Copper Labs,copperlabs.io,Jamal Haddad,jamal.haddad@copperlabs.io,Customer Success Lead,1-10,Logistics,NL,contact form,2026-04-03,new
+North Legal,northlegal.co,Yusuf Moreau,yusuf.moreau@northlegal.co,Operations Manager,11-50,Logistics,AU,docs,2026-04-03,new
+Falcon Systems,falconsystems.com,Maya Doyle,maya.doyle@falconsystems.com,IT Manager,501-1000,Energy,NL,pricing page,2026-04-04,qualified
+North Systems,northsystems.com,Grace Lindqvist,grace.lindqvist@northsystems.com,Head of Support,51-200,Energy,US,conference,2026-04-05,contacted
 Apex Foods,apexfoods.com,Grace Okafor,grace.okafor@apexfoods.com,Head of Support,501-1000,Professional services,US,webinar,2026-04-05,new
-Anchor Freight,anchorfreight.co,Aisha Castillo,aisha.castillo@anchorfreight.co,Operations Manager,201-500,Education,GB,contact form,2026-04-05,unqualified
-Blue Dental,bluedental.io,Uma Zhang,uma.zhang@bluedental.io,Support Manager,1-10,Manufacturing,US,conference,2026-04-06,contacted
-Atlas Mobility,atlasmobility.co,Wen Iyer,wen.iyer@atlasmobility.co,CTO,1-10,Healthcare,CA,webinar,2026-04-06,new
-Oak Studio,oakstudio.co,Ben Adeyemi,ben.adeyemi@oakstudio.co,Support Manager,51-200,Logistics,DE,docs,2026-04-06,contacted
-Lumen Mobility,lumenmobility.com,Jamal Larsen,jamal.larsen@lumenmobility.com,IT Manager,51-200,Professional services,US,conference,2026-04-08,new
-Harbor Insurance,harborinsurance.io,Rosa Tanaka,rosa.tanaka@harborinsurance.io,Customer Success Lead,201-500,Manufacturing,DE,pricing page,2026-04-08,contacted
-Summit Media,summitmedia.com,Grace Mensah,grace.mensah@summitmedia.com,Engineering Manager,1001-5000,Logistics,DE,contact form,2026-04-09,new
-Cedar Capital,cedarcapital.com,Tomas Rahman,tomas.rahman@cedarcapital.com,CTO,501-1000,Software,GB,docs,2026-04-09,new
-Maple Payroll,maplepayroll.co,Sam Kowalski,sam.kowalski@maplepayroll.co,Head of Support,51-200,Energy,US,trial signup,2026-04-10,qualified
-Oak Learning,oaklearning.com,Yusuf Castillo,yusuf.castillo@oaklearning.com,Engineering Manager,1001-5000,Manufacturing,CA,conference,2026-04-12,new
-Orbit Dental,orbitdental.com,Carla Varga,carla.varga@orbitdental.com,Operations Manager,1001-5000,Logistics,NL,conference,2026-04-12,unqualified
-Compass Legal,compasslegal.co,Dmitri Costa,dmitri.costa@compasslegal.co,Support Manager,1-10,Software,US,pricing page,2026-04-13,contacted
-Meridian Learning,meridianlearning.io,Farid Brennan,farid.brennan@meridianlearning.io,Head of Support,501-1000,Fintech,NL,contact form,2026-04-13,new
+Beacon Freight,beaconfreight.co,Aisha Castillo,aisha.castillo@beaconfreight.co,Operations Manager,201-500,Education,GB,contact form,2026-04-05,unqualified
+Summit Dental,summitdental.io,Uma Zhang,uma.zhang@summitdental.io,Support Manager,1-10,Manufacturing,US,conference,2026-04-06,contacted
+Meridian Mobility,meridianmobility.co,Wen Iyer,wen.iyer@meridianmobility.co,CTO,1-10,Healthcare,CA,webinar,2026-04-06,new
+Silver Studio,silverstudio.co,Ben Adeyemi,ben.adeyemi@silverstudio.co,Support Manager,51-200,Logistics,DE,docs,2026-04-06,contacted
+Orbit Mobility,orbitmobility.com,Jamal Larsen,jamal.larsen@orbitmobility.com,IT Manager,51-200,Professional services,US,conference,2026-04-08,new
+Cedar Insurance,cedarinsurance.io,Rosa Tanaka,rosa.tanaka@cedarinsurance.io,Customer Success Lead,201-500,Manufacturing,DE,pricing page,2026-04-08,contacted
+Harbor Media,harbormedia.com,Grace Mensah,grace.mensah@harbormedia.com,Engineering Manager,1001-5000,Logistics,DE,contact form,2026-04-09,new
+Juniper Capital,junipercapital.com,Tomas Rahman,tomas.rahman@junipercapital.com,CTO,501-1000,Software,GB,docs,2026-04-09,new
+River Payroll,riverpayroll.co,Sam Kowalski,sam.kowalski@riverpayroll.co,Head of Support,51-200,Energy,US,trial signup,2026-04-10,qualified
+Silver Learning,silverlearning.com,Yusuf Castillo,yusuf.castillo@silverlearning.com,Engineering Manager,1001-5000,Manufacturing,CA,conference,2026-04-12,new
+Atlas Dental,atlasdental.com,Carla Varga,carla.varga@atlasdental.com,Operations Manager,1001-5000,Logistics,NL,conference,2026-04-12,unqualified
+Anchor Legal,anchorlegal.co,Dmitri Costa,dmitri.costa@anchorlegal.co,Support Manager,1-10,Software,US,pricing page,2026-04-13,contacted
+Compass Learning,compasslearning.io,Farid Brennan,farid.brennan@compasslearning.io,Head of Support,501-1000,Fintech,NL,contact form,2026-04-13,new
 Apex Analytics,apexanalytics.co,Jamal Nakamura,jamal.nakamura@apexanalytics.co,VP Customer Experience,201-500,Energy,NL,webinar,2026-04-14,qualified
-Vector Group,vectorgroup.io,Grace Rahman,grace.rahman@vectorgroup.io,Support Manager,501-1000,Energy,AU,referral,2026-04-15,qualified
+Lumen Group,lumengroup.io,Grace Rahman,grace.rahman@lumengroup.io,Support Manager,501-1000,Energy,AU,referral,2026-04-15,qualified
 Bright Dental,brightdental.com,Wen Fischer,wen.fischer@brightdental.com,Support Manager,501-1000,Software,CA,pricing page,2026-04-17,new
-River Freight,riverfreight.io,Keiko Larsen,keiko.larsen@riverfreight.io,Support Team Lead,11-50,Retail,GB,docs,2026-04-17,unqualified
-River Finance,riverfinance.com,Olu Iyer,olu.iyer@riverfinance.com,Support Manager,51-200,Retail,NL,docs,2026-04-19,unqualified
-Falcon Labs,falconlabs.co,Maya Nakamura,maya.nakamura@falconlabs.co,Operations Manager,11-50,Logistics,US,referral,2026-04-19,new
+Granite Freight,granitefreight.io,Keiko Larsen,keiko.larsen@granitefreight.io,Support Team Lead,11-50,Retail,GB,docs,2026-04-17,unqualified
+Granite Finance,granitefinance.com,Olu Iyer,olu.iyer@granitefinance.com,Support Manager,51-200,Retail,NL,docs,2026-04-19,unqualified
+Pine Labs,pinelabs.co,Maya Nakamura,maya.nakamura@pinelabs.co,Operations Manager,11-50,Logistics,US,referral,2026-04-19,new
 Echo Security,echosecurity.io,Grace Zhang,grace.zhang@echosecurity.io,VP Customer Experience,1001-5000,Professional services,AU,trial signup,2026-04-20,new
-Atlas Insurance,atlasinsurance.com,Carla Tanaka,carla.tanaka@atlasinsurance.com,Head of Support,1001-5000,Energy,CA,contact form,2026-04-20,new
-Falcon Studio,falconstudio.co,Hugo Rahman,hugo.rahman@falconstudio.co,CTO,1-10,Manufacturing,US,docs,2026-04-21,unqualified
-Iron Partners,ironpartners.co,Jamal Rahman,jamal.rahman@ironpartners.co,Founder,11-50,Energy,US,webinar,2026-04-21,qualified
+Meridian Insurance,meridianinsurance.com,Carla Tanaka,carla.tanaka@meridianinsurance.com,Head of Support,1001-5000,Energy,CA,contact form,2026-04-20,new
+Pine Studio,pinestudio.co,Hugo Rahman,hugo.rahman@pinestudio.co,CTO,1-10,Manufacturing,US,docs,2026-04-21,unqualified
+North Partners,northpartners.co,Jamal Rahman,jamal.rahman@northpartners.co,Founder,11-50,Energy,US,webinar,2026-04-21,qualified
 Nova Works,novaworks.com,Victor Brennan,victor.brennan@novaworks.com,Operations Manager,501-1000,Logistics,AU,trial signup,2026-04-21,new
-Meridian Group,meridiangroup.com,Maya Costa,maya.costa@meridiangroup.com,CTO,501-1000,Professional services,NL,docs,2026-04-21,unqualified
-Meridian Finance,meridianfinance.com,Luis Lindqvist,luis.lindqvist@meridianfinance.com,Office Manager,51-200,Retail,US,pricing page,2026-04-21,new
+Compass Group,compassgroup.com,Maya Costa,maya.costa@compassgroup.com,CTO,501-1000,Professional services,NL,docs,2026-04-21,unqualified
+Compass Finance,compassfinance.com,Luis Lindqvist,luis.lindqvist@compassfinance.com,Office Manager,51-200,Retail,US,pricing page,2026-04-21,new
 Delta Care,deltacare.io,Victor Novak,victor.novak@deltacare.io,Support Manager,11-50,Software,US,trial signup,2026-04-22,new
-Cedar Networks,cedarnetworks.co,Victor Larsen,victor.larsen@cedarnetworks.co,Support Team Lead,201-500,Education,NL,webinar,2026-04-22,new
+Juniper Networks,junipernetworks.co,Victor Larsen,victor.larsen@junipernetworks.co,Support Team Lead,201-500,Education,NL,webinar,2026-04-22,new
 Apex Mobility,apexmobility.com,Elena Doyle,elena.doyle@apexmobility.com,Support Manager,501-1000,Energy,US,conference,2026-04-22,new
-Pine Works,pineworks.co,Carla Brennan,carla.brennan@pineworks.co,CTO,51-200,Healthcare,US,referral,2026-04-23,contacted
-Vector Foods,vectorfoods.co,Priya Varga,priya.varga@vectorfoods.co,CTO,1-10,Retail,US,referral,2026-04-23,new
+Oak Works,oakworks.co,Carla Brennan,carla.brennan@oakworks.co,CTO,51-200,Healthcare,US,referral,2026-04-23,contacted
+Lumen Foods,lumenfoods.co,Priya Varga,priya.varga@lumenfoods.co,CTO,1-10,Retail,US,referral,2026-04-23,new
 Prime Mobility,primemobility.co,Hugo Okafor,hugo.okafor@primemobility.co,IT Manager,201-500,Healthcare,NL,trial signup,2026-04-25,new
-Vector Care,vectorcare.com,Rosa Novak,rosa.novak@vectorcare.com,VP Customer Experience,51-200,Education,DE,webinar,2026-04-25,new
+Lumen Care,lumencare.com,Rosa Novak,rosa.novak@lumencare.com,VP Customer Experience,51-200,Education,DE,webinar,2026-04-25,new
 Tide Health,tidehealth.co,Grace Varga,grace.varga@tidehealth.co,Founder,501-1000,Software,NL,webinar,2026-04-25,new
-Beacon Partners,beaconpartners.io,Luis Zhang,luis.zhang@beaconpartners.io,Founder,501-1000,Software,AU,conference,2026-04-26,new
-Meridian Analytics,meridiananalytics.com,Hugo Delgado,hugo.delgado@meridiananalytics.com,CTO,201-500,Software,CA,pricing page,2026-04-27,new
-Silver Health,silverhealth.co,Priya Romero,priya.romero@silverhealth.co,Customer Success Lead,1001-5000,Logistics,US,contact form,2026-04-27,new
+Falcon Partners,falconpartners.io,Luis Zhang,luis.zhang@falconpartners.io,Founder,501-1000,Software,AU,conference,2026-04-26,new
+Compass Analytics,compassanalytics.com,Hugo Delgado,hugo.delgado@compassanalytics.com,CTO,201-500,Software,CA,pricing page,2026-04-27,new
+Copper Health,copperhealth.co,Priya Romero,priya.romero@copperhealth.co,Customer Success Lead,1001-5000,Logistics,US,contact form,2026-04-27,new
 Apex Supply,apexsupply.io,Olu Nakamura,olu.nakamura@apexsupply.io,Director of Operations,501-1000,Retail,US,trial signup,2026-04-28,new
 Nova Payroll,novapayroll.com,Elena Varga,elena.varga@novapayroll.com,Customer Success Lead,201-500,Manufacturing,GB,pricing page,2026-04-28,new
-Granite Analytics,graniteanalytics.co,Olu Lindqvist,olu.lindqvist@graniteanalytics.co,Director of Operations,1001-5000,Energy,US,webinar,2026-04-28,unqualified
-Compass Learning,compasslearning.com,Farid Romero,farid.romero@compasslearning.com,Operations Manager,11-50,Professional services,AU,trial signup,2026-05-02,qualified
+Iron Analytics,ironanalytics.co,Olu Lindqvist,olu.lindqvist@ironanalytics.co,Director of Operations,1001-5000,Energy,US,webinar,2026-04-28,unqualified
+Anchor Learning,anchorlearning.com,Farid Romero,farid.romero@anchorlearning.com,Operations Manager,11-50,Professional services,AU,trial signup,2026-05-02,qualified
 Bright Analytics,brightanalytics.com,Elena Adeyemi,elena.adeyemi@brightanalytics.com,IT Manager,1-10,Healthcare,GB,referral,2026-05-02,contacted
-Vector Systems,vectorsystems.com,Victor Zhang,victor.zhang@vectorsystems.com,Support Manager,1001-5000,Retail,AU,referral,2026-05-02,new
-Oak Care,oakcare.com,Farid Rahman,farid.rahman@oakcare.com,Operations Manager,11-50,Media,GB,pricing page,2026-05-03,new
-North Systems,northsystems.com,Dmitri Moreau,dmitri.moreau@northsystems.com,Director of Operations,201-500,Professional services,US,contact form,2026-05-03,new
-Oak Industries,oakindustries.com,Carla Petrov,carla.petrov@oakindustries.com,Customer Success Lead,51-200,Fintech,US,docs,2026-05-03,unqualified
-Maple Foods,maplefoods.com,Ben Romero,ben.romero@maplefoods.com,Operations Manager,201-500,Retail,AU,conference,2026-05-04,new
+Lumen Systems,lumensystems.com,Victor Zhang,victor.zhang@lumensystems.com,Support Manager,1001-5000,Retail,AU,referral,2026-05-02,new
+Silver Care,silvercare.com,Farid Rahman,farid.rahman@silvercare.com,Operations Manager,11-50,Media,GB,pricing page,2026-05-03,new
+Blue Systems,bluesystems.com,Dmitri Moreau,dmitri.moreau@bluesystems.com,Director of Operations,201-500,Professional services,US,contact form,2026-05-03,new
+Silver Industries,silverindustries.com,Carla Petrov,carla.petrov@silverindustries.com,Customer Success Lead,51-200,Fintech,US,docs,2026-05-03,unqualified
+River Foods,riverfoods.com,Ben Romero,ben.romero@riverfoods.com,Operations Manager,201-500,Retail,AU,conference,2026-05-04,new
 Echo Clinics,echoclinics.co,Luis Delgado,luis.delgado@echoclinics.co,CTO,201-500,Fintech,US,referral,2026-05-04,unqualified
-Orbit Industries,orbitindustries.co,Ingrid Novak,ingrid.novak@orbitindustries.co,Support Manager,201-500,Energy,AU,contact form,2026-05-04,new
+Atlas Industries,atlasindustries.co,Ingrid Novak,ingrid.novak@atlasindustries.co,Support Manager,201-500,Energy,AU,contact form,2026-05-04,new
 Apex Software,apexsoftware.co,Grace Doyle,grace.doyle@apexsoftware.co,Support Team Lead,201-500,Logistics,DE,referral,2026-05-05,new
 Bright Security,brightsecurity.co,Elena Brennan,elena.brennan@brightsecurity.co,IT Manager,201-500,Professional services,DE,referral,2026-05-05,new
-North Goods,northgoods.com,Uma Nakamura,uma.nakamura@northgoods.com,Founder,51-200,Professional services,US,docs,2026-05-05,unqualified
-Atlas Health,atlashealth.com,Ben Okafor,ben.okafor@atlashealth.com,VP Customer Experience,11-50,Software,DE,pricing page,2026-05-06,qualified
-Blue Mobility,bluemobility.io,Hugo Varga,hugo.varga@bluemobility.io,Support Team Lead,501-1000,Logistics,US,docs,2026-05-06,unqualified
-Vector Software,vectorsoftware.co,Elena Petrov,elena.petrov@vectorsoftware.co,IT Manager,201-500,Healthcare,GB,contact form,2026-05-06,qualified
-Beacon Finance,beaconfinance.io,Rosa Kowalski,rosa.kowalski@beaconfinance.io,Founder,11-50,Logistics,AU,trial signup,2026-05-07,qualified
-Pine Industries,pineindustries.io,Rosa Adeyemi,rosa.adeyemi@pineindustries.io,Operations Manager,51-200,Software,AU,webinar,2026-05-07,new
-River Networks,rivernetworks.com,Yusuf Nakamura,yusuf.nakamura@rivernetworks.com,Founder,1001-5000,Healthcare,US,docs,2026-05-08,new
-Lumen Logistics,lumenlogistics.com,Yusuf Moreau,yusuf.moreau@lumenlogistics.com,CTO,1-10,Energy,GB,webinar,2026-05-09,new
+Blue Goods,bluegoods.com,Uma Nakamura,uma.nakamura@bluegoods.com,Founder,51-200,Professional services,US,docs,2026-05-05,unqualified
+Meridian Health,meridianhealth.com,Ben Okafor,ben.okafor@meridianhealth.com,VP Customer Experience,11-50,Software,DE,pricing page,2026-05-06,qualified
+Summit Mobility,summitmobility.io,Hugo Varga,hugo.varga@summitmobility.io,Support Team Lead,501-1000,Logistics,US,docs,2026-05-06,unqualified
+Lumen Software,lumensoftware.co,Elena Petrov,elena.petrov@lumensoftware.co,IT Manager,201-500,Healthcare,GB,contact form,2026-05-06,qualified
+Falcon Finance,falconfinance.io,Rosa Kowalski,rosa.kowalski@falconfinance.io,Founder,11-50,Logistics,AU,trial signup,2026-05-07,qualified
+Oak Industries,oakindustries.io,Rosa Adeyemi,rosa.adeyemi@oakindustries.io,Operations Manager,51-200,Software,AU,webinar,2026-05-07,new
+Granite Networks,granitenetworks.com,Yusuf Nakamura,yusuf.nakamura@granitenetworks.com,Founder,1001-5000,Healthcare,US,docs,2026-05-08,new
+Orbit Logistics,orbitlogistics.com,Yusuf Moreau,yusuf.moreau@orbitlogistics.com,CTO,1-10,Energy,GB,webinar,2026-05-09,new
 Nova Capital,novacapital.co,Jamal Romero,jamal.romero@novacapital.co,Head of Support,501-1000,Software,CA,trial signup,2026-05-09,unqualified
-Anchor Networks,anchornetworks.com,Aisha Kowalski,aisha.kowalski@anchornetworks.com,Director of Operations,501-1000,Manufacturing,US,contact form,2026-05-10,qualified
-Lumen Group,lumengroup.io,Farid Okafor,farid.okafor@lumengroup.io,CTO,1-10,Retail,GB,pricing page,2026-05-11,new
+Beacon Networks,beaconnetworks.com,Aisha Kowalski,aisha.kowalski@beaconnetworks.com,Director of Operations,501-1000,Manufacturing,US,contact form,2026-05-10,qualified
+Orbit Group,orbitgroup.io,Farid Okafor,farid.okafor@orbitgroup.io,CTO,1-10,Retail,GB,pricing page,2026-05-11,new
 Prime Security,primesecurity.co,Rosa Castillo,rosa.castillo@primesecurity.co,Office Manager,1-10,Fintech,AU,conference,2026-05-11,qualified
-Blue Insurance,blueinsurance.com,Aisha Novak,aisha.novak@blueinsurance.com,CTO,11-50,Media,AU,conference,2026-05-12,contacted
-Meridian Payroll,meridianpayroll.com,Priya Delgado,priya.delgado@meridianpayroll.com,Office Manager,501-1000,Healthcare,US,contact form,2026-05-14,new
-Falcon Systems,falconsystems.com,Hugo Fischer,hugo.fischer@falconsystems.com,Operations Manager,201-500,Energy,NL,pricing page,2026-05-14,contacted
-Beacon Studio,beaconstudio.co,Jamal Lindqvist,jamal.lindqvist@beaconstudio.co,Support Team Lead,11-50,Media,GB,contact form,2026-05-14,qualified
-Maple Industries,mapleindustries.com,Victor Tanaka,victor.tanaka@mapleindustries.com,VP Customer Experience,1001-5000,Healthcare,AU,trial signup,2026-05-14,unqualified
-Orbit Freight,orbitfreight.com,Jamal Doyle,jamal.doyle@orbitfreight.com,Operations Manager,201-500,Manufacturing,US,docs,2026-05-15,new
-Meridian Robotics,meridianrobotics.com,Dmitri Haddad,dmitri.haddad@meridianrobotics.com,Operations Manager,201-500,Manufacturing,NL,trial signup,2026-05-15,new
-Summit Software,summitsoftware.com,Aisha Mensah,aisha.mensah@summitsoftware.com,Support Team Lead,1001-5000,Software,AU,pricing page,2026-05-15,new
-Oak Logistics,oaklogistics.co,Aisha Castillo,aisha.castillo@oaklogistics.co,Customer Success Lead,1001-5000,Manufacturing,NL,docs,2026-05-16,unqualified
-Blue Goods,bluegoods.com,Victor Nakamura,victor.nakamura@bluegoods.com,Support Team Lead,11-50,Fintech,US,pricing page,2026-05-17,unqualified
-Orbit Capital,orbitcapital.co,Sam Delgado,sam.delgado@orbitcapital.co,CTO,501-1000,Logistics,US,contact form,2026-05-17,qualified
-Meridian Security,meridiansecurity.io,Rosa Castillo,rosa.castillo@meridiansecurity.io,VP Customer Experience,1-10,Retail,US,contact form,2026-05-17,new
-Granite Payroll,granitepayroll.com,Olu Novak,olu.novak@granitepayroll.com,Head of Support,201-500,Healthcare,US,webinar,2026-05-17,contacted
-Compass Energy,compassenergy.com,Tomas Haddad,tomas.haddad@compassenergy.com,Engineering Manager,201-500,Retail,NL,pricing page,2026-05-17,new
+Summit Insurance,summitinsurance.com,Aisha Novak,aisha.novak@summitinsurance.com,CTO,11-50,Media,AU,conference,2026-05-12,contacted
+Compass Payroll,compasspayroll.com,Priya Delgado,priya.delgado@compasspayroll.com,Office Manager,501-1000,Healthcare,US,contact form,2026-05-14,new
+Pine Systems,pinesystems.com,Hugo Fischer,hugo.fischer@pinesystems.com,Operations Manager,201-500,Energy,NL,pricing page,2026-05-14,contacted
+Falcon Studio,falconstudio.co,Jamal Lindqvist,jamal.lindqvist@falconstudio.co,Support Team Lead,11-50,Media,GB,contact form,2026-05-14,qualified
+River Industries,riverindustries.com,Victor Tanaka,victor.tanaka@riverindustries.com,VP Customer Experience,1001-5000,Healthcare,AU,trial signup,2026-05-14,unqualified
+Atlas Freight,atlasfreight.com,Jamal Doyle,jamal.doyle@atlasfreight.com,Operations Manager,201-500,Manufacturing,US,docs,2026-05-15,new
+Compass Robotics,compassrobotics.com,Dmitri Haddad,dmitri.haddad@compassrobotics.com,Operations Manager,201-500,Manufacturing,NL,trial signup,2026-05-15,new
+Harbor Software,harborsoftware.com,Aisha Mensah,aisha.mensah@harborsoftware.com,Support Team Lead,1001-5000,Software,AU,pricing page,2026-05-15,new
+Silver Logistics,silverlogistics.co,Aisha Castillo,aisha.castillo@silverlogistics.co,Customer Success Lead,1001-5000,Manufacturing,NL,docs,2026-05-16,unqualified
+Summit Goods,summitgoods.com,Victor Nakamura,victor.nakamura@summitgoods.com,Support Team Lead,11-50,Fintech,US,pricing page,2026-05-17,unqualified
+Atlas Capital,atlascapital.co,Sam Delgado,sam.delgado@atlascapital.co,CTO,501-1000,Logistics,US,contact form,2026-05-17,qualified
+Compass Security,compasssecurity.io,Rosa Castillo,rosa.castillo@compasssecurity.io,VP Customer Experience,1-10,Retail,US,contact form,2026-05-17,new
+Iron Payroll,ironpayroll.com,Olu Novak,olu.novak@ironpayroll.com,Head of Support,201-500,Healthcare,US,webinar,2026-05-17,contacted
+Anchor Energy,anchorenergy.com,Tomas Haddad,tomas.haddad@anchorenergy.com,Engineering Manager,201-500,Retail,NL,pricing page,2026-05-17,new
 Prime Software,primesoftware.com,Victor Lindqvist,victor.lindqvist@primesoftware.com,Support Team Lead,201-500,Fintech,AU,docs,2026-05-18,new
 Bright Care,brightcare.io,Sam Iyer,sam.iyer@brightcare.io,Engineering Manager,11-50,Education,GB,docs,2026-05-18,new
-Granite Legal,granitelegal.com,Zoe Fischer,zoe.fischer@granitelegal.com,Office Manager,51-200,Education,US,conference,2026-05-19,new
-Meridian Capital,meridiancapital.com,Aisha Fischer,aisha.fischer@meridiancapital.com,CTO,501-1000,Professional services,AU,webinar,2026-05-19,qualified
-Copper Care,coppercare.com,Victor Rahman,victor.rahman@coppercare.com,IT Manager,1001-5000,Healthcare,US,contact form,2026-05-19,new
-Anchor Studio,anchorstudio.com,Jamal Costa,jamal.costa@anchorstudio.com,CTO,501-1000,Software,CA,trial signup,2026-05-20,unqualified
-Lumen Analytics,lumenanalytics.com,Carla Varga,carla.varga@lumenanalytics.com,Office Manager,1-10,Manufacturing,US,trial signup,2026-05-20,new
-Oak Dental,oakdental.com,Priya Romero,priya.romero@oakdental.com,Head of Support,1-10,Energy,AU,webinar,2026-05-20,qualified
-Maple Media,maplemedia.co,Grace Rahman,grace.rahman@maplemedia.co,Support Manager,11-50,Energy,NL,webinar,2026-05-20,unqualified
-River Logistics,riverlogistics.io,Ingrid Kowalski,ingrid.kowalski@riverlogistics.io,Support Team Lead,11-50,Logistics,NL,docs,2026-05-21,new
-Harbor Media,harbormedia.com,Victor Novak,victor.novak@harbormedia.com,Support Team Lead,51-200,Manufacturing,CA,docs,2026-05-21,contacted
-Beacon Logistics,beaconlogistics.com,Wen Doyle,wen.doyle@beaconlogistics.com,Operations Manager,11-50,Energy,DE,trial signup,2026-05-22,qualified
-Compass Capital,compasscapital.io,Farid Kowalski,farid.kowalski@compasscapital.io,Director of Operations,11-50,Software,GB,contact form,2026-05-22,new
-North Capital,northcapital.co,Ingrid Brennan,ingrid.brennan@northcapital.co,Customer Success Lead,1-10,Professional services,NL,trial signup,2026-05-23,new
+Iron Legal,ironlegal.com,Zoe Fischer,zoe.fischer@ironlegal.com,Office Manager,51-200,Education,US,conference,2026-05-19,new
+Compass Capital,compasscapital.com,Aisha Fischer,aisha.fischer@compasscapital.com,CTO,501-1000,Professional services,AU,webinar,2026-05-19,qualified
+Maple Care,maplecare.com,Victor Rahman,victor.rahman@maplecare.com,IT Manager,1001-5000,Healthcare,US,contact form,2026-05-19,new
+Beacon Studio,beaconstudio.com,Jamal Costa,jamal.costa@beaconstudio.com,CTO,501-1000,Software,CA,trial signup,2026-05-20,unqualified
+Orbit Analytics,orbitanalytics.com,Carla Varga,carla.varga@orbitanalytics.com,Office Manager,1-10,Manufacturing,US,trial signup,2026-05-20,new
+Silver Dental,silverdental.com,Priya Romero,priya.romero@silverdental.com,Head of Support,1-10,Energy,AU,webinar,2026-05-20,qualified
+River Media,rivermedia.co,Grace Rahman,grace.rahman@rivermedia.co,Support Manager,11-50,Energy,NL,webinar,2026-05-20,unqualified
+Granite Logistics,granitelogistics.io,Ingrid Kowalski,ingrid.kowalski@granitelogistics.io,Support Team Lead,11-50,Logistics,NL,docs,2026-05-21,new
+Cedar Media,cedarmedia.com,Victor Novak,victor.novak@cedarmedia.com,Support Team Lead,51-200,Manufacturing,CA,docs,2026-05-21,contacted
+Falcon Logistics,falconlogistics.com,Wen Doyle,wen.doyle@falconlogistics.com,Operations Manager,11-50,Energy,DE,trial signup,2026-05-22,qualified
+Anchor Capital,anchorcapital.io,Farid Kowalski,farid.kowalski@anchorcapital.io,Director of Operations,11-50,Software,GB,contact form,2026-05-22,new
+Blue Capital,bluecapital.co,Ingrid Brennan,ingrid.brennan@bluecapital.co,Customer Success Lead,1-10,Professional services,NL,trial signup,2026-05-23,new
 Prime Health,primehealth.com,Ingrid Castillo,ingrid.castillo@primehealth.com,Office Manager,11-50,Media,GB,docs,2026-05-23,unqualified
-Iron Learning,ironlearning.com,Tomas Petrov,tomas.petrov@ironlearning.com,Operations Manager,201-500,Retail,CA,trial signup,2026-05-24,new
-North Group,northgroup.com,Victor Petrov,victor.petrov@northgroup.com,Engineering Manager,1-10,Media,US,pricing page,2026-05-24,contacted
-Pine Care,pinecare.co,Grace Kowalski,grace.kowalski@pinecare.co,Operations Manager,1-10,Professional services,CA,conference,2026-05-24,qualified
+North Learning,northlearning.com,Tomas Petrov,tomas.petrov@northlearning.com,Operations Manager,201-500,Retail,CA,trial signup,2026-05-24,new
+Blue Group,bluegroup.com,Victor Petrov,victor.petrov@bluegroup.com,Engineering Manager,1-10,Media,US,pricing page,2026-05-24,contacted
+Oak Care,oakcare.co,Grace Kowalski,grace.kowalski@oakcare.co,Operations Manager,1-10,Professional services,CA,conference,2026-05-24,qualified
 Apex Insurance,apexinsurance.io,Ben Adeyemi,ben.adeyemi@apexinsurance.io,Support Manager,501-1000,Fintech,US,conference,2026-05-24,qualified
-Summit Partners,summitpartners.io,Ben Moreau,ben.moreau@summitpartners.io,Support Manager,501-1000,Software,US,contact form,2026-05-25,new
-Maple Legal,maplelegal.co,Maya Lindqvist,maya.lindqvist@maplelegal.co,Customer Success Lead,1-10,Logistics,DE,trial signup,2026-05-26,new
-Atlas Legal,atlaslegal.com,Yusuf Lindqvist,yusuf.lindqvist@atlaslegal.com,Support Manager,51-200,Energy,US,trial signup,2026-05-26,new
-Summit Learning,summitlearning.com,Aisha Kowalski,aisha.kowalski@summitlearning.com,Support Manager,501-1000,Energy,DE,docs,2026-05-26,new
+Harbor Partners,harborpartners.io,Ben Moreau,ben.moreau@harborpartners.io,Support Manager,501-1000,Software,US,contact form,2026-05-25,new
+River Legal,riverlegal.co,Maya Lindqvist,maya.lindqvist@riverlegal.co,Customer Success Lead,1-10,Logistics,DE,trial signup,2026-05-26,new
+Meridian Legal,meridianlegal.com,Yusuf Lindqvist,yusuf.lindqvist@meridianlegal.com,Support Manager,51-200,Energy,US,trial signup,2026-05-26,new
+Harbor Learning,harborlearning.com,Aisha Kowalski,aisha.kowalski@harborlearning.com,Support Manager,501-1000,Energy,DE,docs,2026-05-26,new
 Tide Foods,tidefoods.com,Zoe Delgado,zoe.delgado@tidefoods.com,Engineering Manager,1-10,Fintech,US,pricing page,2026-05-27,qualified
-North Logistics,northlogistics.co,Uma Okafor,uma.okafor@northlogistics.co,Support Manager,501-1000,Fintech,NL,pricing page,2026-05-27,qualified
-Iron Foods,ironfoods.com,Maya Tanaka,maya.tanaka@ironfoods.com,Office Manager,11-50,Fintech,GB,referral,2026-05-28,new
-Blue Group,bluegroup.com,Luis Delgado,luis.delgado@bluegroup.com,Director of Operations,1-10,Software,GB,docs,2026-06-01,contacted
-Pine Goods,pinegoods.com,Ben Adeyemi,ben.adeyemi@pinegoods.com,Head of Support,11-50,Retail,AU,pricing page,2026-06-02,qualified
+Blue Logistics,bluelogistics.co,Uma Okafor,uma.okafor@bluelogistics.co,Support Manager,501-1000,Fintech,NL,pricing page,2026-05-27,qualified
+North Foods,northfoods.com,Maya Tanaka,maya.tanaka@northfoods.com,Office Manager,11-50,Fintech,GB,referral,2026-05-28,new
+Summit Group,summitgroup.com,Luis Delgado,luis.delgado@summitgroup.com,Director of Operations,1-10,Software,GB,docs,2026-06-01,contacted
+Oak Goods,oakgoods.com,Ben Adeyemi,ben.adeyemi@oakgoods.com,Head of Support,11-50,Retail,AU,pricing page,2026-06-02,qualified
 Echo Partners,echopartners.com,Ben Kowalski,ben.kowalski@echopartners.com,Head of Support,11-50,Education,AU,trial signup,2026-06-03,unqualified
 Prime Care,primecare.com,Priya Costa,priya.costa@primecare.com,CTO,501-1000,Software,US,pricing page,2026-06-03,new
-North Partners,northpartners.co,Ben Adeyemi,ben.adeyemi@northpartners.co,IT Manager,51-200,Education,US,referral,2026-06-03,contacted
-Pine Labs,pinelabs.com,Aisha Adeyemi,aisha.adeyemi@pinelabs.com,Support Team Lead,1001-5000,Education,US,pricing page,2026-06-03,qualified
-Vector Goods,vectorgoods.co,Zoe Brennan,zoe.brennan@vectorgoods.co,Support Team Lead,1001-5000,Healthcare,CA,pricing page,2026-06-04,new
+Blue Partners,bluepartners.co,Ben Adeyemi,ben.adeyemi@bluepartners.co,IT Manager,51-200,Education,US,referral,2026-06-03,contacted
+Oak Labs,oaklabs.com,Aisha Adeyemi,aisha.adeyemi@oaklabs.com,Support Team Lead,1001-5000,Education,US,pricing page,2026-06-03,qualified
+Lumen Goods,lumengoods.co,Zoe Brennan,zoe.brennan@lumengoods.co,Support Team Lead,1001-5000,Healthcare,CA,pricing page,2026-06-04,new
 Echo Health,echohealth.com,Maya Iyer,maya.iyer@echohealth.com,IT Manager,201-500,Education,NL,docs,2026-06-04,contacted
-Granite Health,granitehealth.com,Farid Delgado,farid.delgado@granitehealth.com,IT Manager,1-10,Logistics,DE,webinar,2026-06-04,contacted
+Iron Health,ironhealth.com,Farid Delgado,farid.delgado@ironhealth.com,IT Manager,1-10,Logistics,DE,webinar,2026-06-04,contacted
 Tide Group,tidegroup.co,Grace Brennan,grace.brennan@tidegroup.co,Support Manager,501-1000,Education,US,referral,2026-06-06,unqualified
-Harbor Labs,harborlabs.com,Keiko Nakamura,keiko.nakamura@harborlabs.com,Engineering Manager,501-1000,Fintech,US,pricing page,2026-06-06,new
-North Legal,northlegal.io,Zoe Zhang,zoe.zhang@northlegal.io,Support Manager,501-1000,Software,CA,webinar,2026-06-06,unqualified
-Harbor Capital,harborcapital.io,Tomas Lindqvist,tomas.lindqvist@harborcapital.io,Support Team Lead,11-50,Retail,DE,webinar,2026-06-07,new
-Vector Logistics,vectorlogistics.com,Carla Costa,carla.costa@vectorlogistics.com,Support Team Lead,1001-5000,Logistics,DE,contact form,2026-06-08,contacted
-Iron Studio,ironstudio.com,Dmitri Petrov,dmitri.petrov@ironstudio.com,Support Manager,51-200,Fintech,DE,contact form,2026-06-08,new
-Pine Group,pinegroup.com,Jamal Nakamura,jamal.nakamura@pinegroup.com,Support Manager,11-50,Retail,CA,pricing page,2026-06-08,new
-Compass Security,compasssecurity.co,Victor Nakamura,victor.nakamura@compasssecurity.co,IT Manager,201-500,Energy,US,referral,2026-06-09,new
-Copper Software,coppersoftware.com,Luis Larsen,luis.larsen@coppersoftware.com,IT Manager,501-1000,Media,DE,docs,2026-06-10,qualified
+Cedar Labs,cedarlabs.com,Keiko Nakamura,keiko.nakamura@cedarlabs.com,Engineering Manager,501-1000,Fintech,US,pricing page,2026-06-06,new
+Blue Legal,bluelegal.io,Zoe Zhang,zoe.zhang@bluelegal.io,Support Manager,501-1000,Software,CA,webinar,2026-06-06,unqualified
+Cedar Capital,cedarcapital.io,Tomas Lindqvist,tomas.lindqvist@cedarcapital.io,Support Team Lead,11-50,Retail,DE,webinar,2026-06-07,new
+Lumen Logistics,lumenlogistics.com,Carla Costa,carla.costa@lumenlogistics.com,Support Team Lead,1001-5000,Logistics,DE,contact form,2026-06-08,contacted
+North Studio,northstudio.com,Dmitri Petrov,dmitri.petrov@northstudio.com,Support Manager,51-200,Fintech,DE,contact form,2026-06-08,new
+Oak Group,oakgroup.com,Jamal Nakamura,jamal.nakamura@oakgroup.com,Support Manager,11-50,Retail,CA,pricing page,2026-06-08,new
+Anchor Security,anchorsecurity.co,Victor Nakamura,victor.nakamura@anchorsecurity.co,IT Manager,201-500,Energy,US,referral,2026-06-09,new
+Maple Software,maplesoftware.com,Luis Larsen,luis.larsen@maplesoftware.com,IT Manager,501-1000,Media,DE,docs,2026-06-10,qualified
 Delta Systems,deltasystems.com,Elena Costa,elena.costa@deltasystems.com,Founder,201-500,Healthcare,US,referral,2026-06-10,new
-Falcon Industries,falconindustries.com,Farid Silva,farid.silva@falconindustries.com,Director of Operations,11-50,Logistics,US,trial signup,2026-06-10,new
+Pine Industries,pineindustries.com,Farid Silva,farid.silva@pineindustries.com,Director of Operations,11-50,Logistics,US,trial signup,2026-06-10,new
 Echo Freight,echofreight.com,Rosa Silva,rosa.silva@echofreight.com,VP Customer Experience,1001-5000,Education,US,referral,2026-06-10,unqualified
-Harbor Goods,harborgoods.co,Tomas Romero,tomas.romero@harborgoods.co,Head of Support,11-50,Manufacturing,GB,webinar,2026-06-11,new
-Granite Logistics,granitelogistics.co,Uma Petrov,uma.petrov@granitelogistics.co,IT Manager,1-10,Fintech,CA,contact form,2026-06-11,qualified
-Pine Freight,pinefreight.io,Elena Nakamura,elena.nakamura@pinefreight.io,IT Manager,1-10,Education,US,pricing page,2026-06-13,new
-River Software,riversoftware.io,Ingrid Tanaka,ingrid.tanaka@riversoftware.io,VP Customer Experience,201-500,Manufacturing,DE,webinar,2026-06-15,new
+Cedar Goods,cedargoods.co,Tomas Romero,tomas.romero@cedargoods.co,Head of Support,11-50,Manufacturing,GB,webinar,2026-06-11,new
+Iron Logistics,ironlogistics.co,Uma Petrov,uma.petrov@ironlogistics.co,IT Manager,1-10,Fintech,CA,contact form,2026-06-11,qualified
+Oak Freight,oakfreight.io,Elena Nakamura,elena.nakamura@oakfreight.io,IT Manager,1-10,Education,US,pricing page,2026-06-13,new
+Granite Software,granitesoftware.io,Ingrid Tanaka,ingrid.tanaka@granitesoftware.io,VP Customer Experience,201-500,Manufacturing,DE,webinar,2026-06-15,new
 Bright Mobility,brightmobility.com,Elena Tanaka,elena.tanaka@brightmobility.com,Office Manager,1-10,Retail,US,pricing page,2026-06-15,qualified
-Anchor Analytics,anchoranalytics.co,Keiko Kowalski,keiko.kowalski@anchoranalytics.co,Director of Operations,1-10,Retail,US,referral,2026-06-15,new
+Beacon Analytics,beaconanalytics.co,Keiko Kowalski,keiko.kowalski@beaconanalytics.co,Director of Operations,1-10,Retail,US,referral,2026-06-15,new
 Echo Studio,echostudio.com,Priya Petrov,priya.petrov@echostudio.com,Head of Support,201-500,Professional services,GB,docs,2026-06-16,qualified
 Nova Partners,novapartners.com,Elena Nakamura,elena.nakamura@novapartners.com,Support Manager,1-10,Media,DE,conference,2026-06-16,new
-Harbor Legal,harborlegal.com,Priya Delgado,priya.delgado@harborlegal.com,Engineering Manager,501-1000,Healthcare,US,referral,2026-06-17,contacted
+Cedar Legal,cedarlegal.com,Priya Delgado,priya.delgado@cedarlegal.com,Engineering Manager,501-1000,Healthcare,US,referral,2026-06-17,contacted
 Tide Industries,tideindustries.com,Jamal Rahman,jamal.rahman@tideindustries.com,Operations Manager,1001-5000,Retail,US,docs,2026-06-17,new
-Pine Security,pinesecurity.com,Sam Petrov,sam.petrov@pinesecurity.com,Support Manager,1-10,Fintech,AU,docs,2026-06-17,qualified
-Silver Freight,silverfreight.com,Victor Costa,victor.costa@silverfreight.com,Support Team Lead,51-200,Healthcare,GB,pricing page,2026-06-17,contacted
-Harbor Dental,harbordental.co,Carla Rahman,carla.rahman@harbordental.co,Customer Success Lead,11-50,Professional services,GB,conference,2026-06-17,qualified
-Falcon Freight,falconfreight.co,Grace Costa,grace.costa@falconfreight.co,CTO,1001-5000,Fintech,US,contact form,2026-06-17,new
-Cedar Media,cedarmedia.com,Victor Doyle,victor.doyle@cedarmedia.com,Founder,51-200,Energy,AU,conference,2026-06-18,new
-Granite Media,granitemedia.com,Grace Novak,grace.novak@granitemedia.com,Support Team Lead,1-10,Media,NL,webinar,2026-06-18,contacted
-Lumen Care,lumencare.com,Sam Brennan,sam.brennan@lumencare.com,Director of Operations,51-200,Logistics,GB,conference,2026-06-19,new
+Oak Security,oaksecurity.com,Sam Petrov,sam.petrov@oaksecurity.com,Support Manager,1-10,Fintech,AU,docs,2026-06-17,qualified
+Copper Freight,copperfreight.com,Victor Costa,victor.costa@copperfreight.com,Support Team Lead,51-200,Healthcare,GB,pricing page,2026-06-17,contacted
+Cedar Dental,cedardental.co,Carla Rahman,carla.rahman@cedardental.co,Customer Success Lead,11-50,Professional services,GB,conference,2026-06-17,qualified
+Pine Freight,pinefreight.co,Grace Costa,grace.costa@pinefreight.co,CTO,1001-5000,Fintech,US,contact form,2026-06-17,new
+Juniper Media,junipermedia.com,Victor Doyle,victor.doyle@junipermedia.com,Founder,51-200,Energy,AU,conference,2026-06-18,new
+Iron Media,ironmedia.com,Grace Novak,grace.novak@ironmedia.com,Support Team Lead,1-10,Media,NL,webinar,2026-06-18,contacted
+Orbit Care,orbitcare.com,Sam Brennan,sam.brennan@orbitcare.com,Director of Operations,51-200,Logistics,GB,conference,2026-06-19,new
 Echo Supply,echosupply.com,Uma Castillo,uma.castillo@echosupply.com,Support Team Lead,11-50,Media,NL,webinar,2026-06-19,contacted
-Cedar Dental,cedardental.com,Aisha Lindqvist,aisha.lindqvist@cedardental.com,CTO,201-500,Media,US,pricing page,2026-06-19,new
+Juniper Dental,juniperdental.com,Aisha Lindqvist,aisha.lindqvist@juniperdental.com,CTO,201-500,Media,US,pricing page,2026-06-19,new
 Bright Payroll,brightpayroll.com,Elena Adeyemi,elena.adeyemi@brightpayroll.com,IT Manager,1-10,Professional services,US,conference,2026-06-20,unqualified
-Falcon Care,falconcare.com,Tomas Okafor,tomas.okafor@falconcare.com,Support Manager,11-50,Fintech,US,contact form,2026-06-20,new
-Oak Labs,oaklabs.com,Carla Novak,carla.novak@oaklabs.com,Support Manager,11-50,Manufacturing,GB,trial signup,2026-06-20,new
-Beacon Learning,beaconlearning.com,Yusuf Doyle,yusuf.doyle@beaconlearning.com,Operations Manager,51-200,Retail,GB,webinar,2026-06-21,new
+Pine Care,pinecare.com,Tomas Okafor,tomas.okafor@pinecare.com,Support Manager,11-50,Fintech,US,contact form,2026-06-20,new
+Silver Labs,silverlabs.com,Carla Novak,carla.novak@silverlabs.com,Support Manager,11-50,Manufacturing,GB,trial signup,2026-06-20,new
+Falcon Learning,falconlearning.com,Yusuf Doyle,yusuf.doyle@falconlearning.com,Operations Manager,51-200,Retail,GB,webinar,2026-06-21,new
 Nova Legal,novalegal.com,Yusuf Fischer,yusuf.fischer@novalegal.com,CTO,501-1000,Retail,DE,webinar,2026-06-21,contacted
-Cedar Legal,cedarlegal.com,Elena Fischer,elena.fischer@cedarlegal.com,Director of Operations,11-50,Education,US,trial signup,2026-06-23,new
+Juniper Legal,juniperlegal.com,Elena Fischer,elena.fischer@juniperlegal.com,Director of Operations,11-50,Education,US,trial signup,2026-06-23,new
 Delta Media,deltamedia.com,Ben Lindqvist,ben.lindqvist@deltamedia.com,Head of Support,51-200,Fintech,DE,pricing page,2026-06-24,new
 Echo Systems,echosystems.io,Uma Nakamura,uma.nakamura@echosystems.io,VP Customer Experience,11-50,Logistics,US,conference,2026-06-24,new
-Orbit Robotics,orbitrobotics.com,Uma Delgado,uma.delgado@orbitrobotics.com,Office Manager,51-200,Fintech,US,docs,2026-06-25,new
-Lumen Robotics,lumenrobotics.co,Hugo Kowalski,hugo.kowalski@lumenrobotics.co,CTO,11-50,Retail,GB,docs,2026-06-26,contacted
-Anchor Energy,anchorenergy.io,Hugo Fischer,hugo.fischer@anchorenergy.io,Customer Success Lead,501-1000,Manufacturing,NL,referral,2026-06-26,contacted
-Pine Systems,pinesystems.com,Keiko Brennan,keiko.brennan@pinesystems.com,Director of Operations,51-200,Retail,NL,docs,2026-06-27,new
-Compass Insurance,compassinsurance.com,Luis Silva,luis.silva@compassinsurance.com,Customer Success Lead,501-1000,Energy,DE,pricing page,2026-06-28,new
-Granite Partners,granitepartners.io,Zoe Tanaka,zoe.tanaka@granitepartners.io,Operations Manager,501-1000,Energy,US,webinar,2026-06-28,qualified
-Anchor Works,anchorworks.io,Keiko Iyer,keiko.iyer@anchorworks.io,CTO,1001-5000,Manufacturing,AU,contact form,2026-06-28,qualified
+Atlas Robotics,atlasrobotics.com,Uma Delgado,uma.delgado@atlasrobotics.com,Office Manager,51-200,Fintech,US,docs,2026-06-25,new
+Orbit Robotics,orbitrobotics.co,Hugo Kowalski,hugo.kowalski@orbitrobotics.co,CTO,11-50,Retail,GB,docs,2026-06-26,contacted
+Beacon Energy,beaconenergy.io,Hugo Fischer,hugo.fischer@beaconenergy.io,Customer Success Lead,501-1000,Manufacturing,NL,referral,2026-06-26,contacted
+Oak Systems,oaksystems.com,Keiko Brennan,keiko.brennan@oaksystems.com,Director of Operations,51-200,Retail,NL,docs,2026-06-27,new
+Anchor Insurance,anchorinsurance.com,Luis Silva,luis.silva@anchorinsurance.com,Customer Success Lead,501-1000,Energy,DE,pricing page,2026-06-28,new
+Iron Partners,ironpartners.io,Zoe Tanaka,zoe.tanaka@ironpartners.io,Operations Manager,501-1000,Energy,US,webinar,2026-06-28,qualified
+Beacon Works,beaconworks.io,Keiko Iyer,keiko.iyer@beaconworks.io,CTO,1001-5000,Manufacturing,AU,contact form,2026-06-28,qualified
 Prime Media,primemedia.com,Olu Iyer,olu.iyer@primemedia.com,Founder,501-1000,Software,US,pricing page,2026-06-28,contacted
 Tide Payroll,tidepayroll.com,Jamal Delgado,jamal.delgado@tidepayroll.com,VP Customer Experience,1001-5000,Healthcare,US,conference,2026-07-01,unqualified
-Iron Software,ironsoftware.io,Farid Petrov,farid.petrov@ironsoftware.io,IT Manager,11-50,Logistics,US,webinar,2026-07-01,new
-Pine Capital,pinecapital.co,Noah Nakamura,noah.nakamura@pinecapital.co,Founder,11-50,Manufacturing,CA,referral,2026-07-01,new
-North Insurance,northinsurance.com,Wen Tanaka,wen.tanaka@northinsurance.com,Support Team Lead,11-50,Software,US,contact form,2026-07-01,new
-Maple Works,mapleworks.co,Jamal Novak,jamal.novak@mapleworks.co,Operations Manager,1-10,Professional services,NL,conference,2026-07-02,qualified
-Copper Analytics,copperanalytics.co,Sam Mensah,sam.mensah@copperanalytics.co,Office Manager,1001-5000,Education,AU,docs,2026-07-03,new
-Iron Health,ironhealth.com,Elena Moreau,elena.moreau@ironhealth.com,Support Manager,11-50,Manufacturing,US,contact form,2026-07-03,contacted
-Anchor Industries,anchorindustries.com,Ben Adeyemi,ben.adeyemi@anchorindustries.com,Support Team Lead,51-200,Fintech,US,pricing page,2026-07-04,unqualified
+North Software,northsoftware.io,Farid Petrov,farid.petrov@northsoftware.io,IT Manager,11-50,Logistics,US,webinar,2026-07-01,new
+Oak Capital,oakcapital.co,Noah Nakamura,noah.nakamura@oakcapital.co,Founder,11-50,Manufacturing,CA,referral,2026-07-01,new
+Blue Insurance,blueinsurance.com,Wen Tanaka,wen.tanaka@blueinsurance.com,Support Team Lead,11-50,Software,US,contact form,2026-07-01,new
+River Works,riverworks.co,Jamal Novak,jamal.novak@riverworks.co,Operations Manager,1-10,Professional services,NL,conference,2026-07-02,qualified
+Maple Analytics,mapleanalytics.co,Sam Mensah,sam.mensah@mapleanalytics.co,Office Manager,1001-5000,Education,AU,docs,2026-07-03,new
+North Health,northhealth.com,Elena Moreau,elena.moreau@northhealth.com,Support Manager,11-50,Manufacturing,US,contact form,2026-07-03,contacted
+Beacon Industries,beaconindustries.com,Ben Adeyemi,ben.adeyemi@beaconindustries.com,Support Team Lead,51-200,Fintech,US,pricing page,2026-07-04,unqualified
 Bright Health,brighthealth.io,Grace Nakamura,grace.nakamura@brighthealth.io,Founder,501-1000,Logistics,US,conference,2026-07-05,new
-Beacon Foods,beaconfoods.com,Hugo Moreau,hugo.moreau@beaconfoods.com,Office Manager,201-500,Professional services,AU,trial signup,2026-07-05,new
-Iron Insurance,ironinsurance.com,Ben Costa,ben.costa@ironinsurance.com,Operations Manager,1001-5000,Energy,GB,trial signup,2026-07-06,unqualified
-Maple Capital,maplecapital.com,Ben Nakamura,ben.nakamura@maplecapital.com,Support Manager,501-1000,Media,NL,pricing page,2026-07-06,qualified
-Anchor Group,anchorgroup.co,Farid Lindqvist,farid.lindqvist@anchorgroup.co,Engineering Manager,11-50,Media,DE,pricing page,2026-07-08,contacted
-Copper Insurance,copperinsurance.com,Ben Iyer,ben.iyer@copperinsurance.com,CTO,51-200,Logistics,NL,contact form,2026-07-09,new
+Falcon Foods,falconfoods.com,Hugo Moreau,hugo.moreau@falconfoods.com,Office Manager,201-500,Professional services,AU,trial signup,2026-07-05,new
+North Insurance,northinsurance.com,Ben Costa,ben.costa@northinsurance.com,Operations Manager,1001-5000,Energy,GB,trial signup,2026-07-06,unqualified
+River Capital,rivercapital.com,Ben Nakamura,ben.nakamura@rivercapital.com,Support Manager,501-1000,Media,NL,pricing page,2026-07-06,qualified
+Beacon Group,beacongroup.co,Farid Lindqvist,farid.lindqvist@beacongroup.co,Engineering Manager,11-50,Media,DE,pricing page,2026-07-08,contacted
+Maple Insurance,mapleinsurance.com,Ben Iyer,ben.iyer@mapleinsurance.com,CTO,51-200,Logistics,NL,contact form,2026-07-09,new
 Echo Learning,echolearning.com,Farid Castillo,farid.castillo@echolearning.com,IT Manager,501-1000,Fintech,US,contact form,2026-07-10,unqualified
-Silver Systems,silversystems.com,Sam Brennan,sam.brennan@silversystems.com,VP Customer Experience,1-10,Professional services,US,trial signup,2026-07-11,contacted
-Lumen Legal,lumenlegal.com,Grace Petrov,grace.petrov@lumenlegal.com,Director of Operations,201-500,Software,US,referral,2026-07-11,qualified
+Copper Systems,coppersystems.com,Sam Brennan,sam.brennan@coppersystems.com,VP Customer Experience,1-10,Professional services,US,trial signup,2026-07-11,contacted
+Orbit Legal,orbitlegal.com,Grace Petrov,grace.petrov@orbitlegal.com,Director of Operations,201-500,Software,US,referral,2026-07-11,qualified
 Tide Energy,tideenergy.co,Yusuf Haddad,yusuf.haddad@tideenergy.co,Head of Support,201-500,Fintech,NL,docs,2026-07-13,new
-North Freight,northfreight.com,Luis Fischer,luis.fischer@northfreight.com,VP Customer Experience,1001-5000,Fintech,CA,referral,2026-07-13,new
+Blue Freight,bluefreight.com,Luis Fischer,luis.fischer@bluefreight.com,VP Customer Experience,1001-5000,Fintech,CA,referral,2026-07-13,new
 Ridge Insurance,ridgeinsurance.com,Grace Tanaka,grace.tanaka@ridgeinsurance.com,Office Manager,11-50,Manufacturing,CA,webinar,2026-07-14,qualified
 Prime Networks,primenetworks.io,Sam Varga,sam.varga@primenetworks.io,Office Manager,201-500,Energy,CA,contact form,2026-07-15,unqualified
-Meridian Dental,meridiandental.com,Hugo Delgado,hugo.delgado@meridiandental.com,VP Customer Experience,1001-5000,Manufacturing,DE,contact form,2026-07-16,new
-Granite Capital,granitecapital.com,Victor Tanaka,victor.tanaka@granitecapital.com,Support Team Lead,1-10,Retail,CA,referral,2026-07-17,new
-Atlas Industries,atlasindustries.io,Zoe Nakamura,zoe.nakamura@atlasindustries.io,IT Manager,11-50,Education,NL,pricing page,2026-07-18,unqualified
+Compass Dental,compassdental.com,Hugo Delgado,hugo.delgado@compassdental.com,VP Customer Experience,1001-5000,Manufacturing,DE,contact form,2026-07-16,new
+Iron Capital,ironcapital.com,Victor Tanaka,victor.tanaka@ironcapital.com,Support Team Lead,1-10,Retail,CA,referral,2026-07-17,new
+Meridian Industries,meridianindustries.io,Zoe Nakamura,zoe.nakamura@meridianindustries.io,IT Manager,11-50,Education,NL,pricing page,2026-07-18,unqualified
 Ridge Mobility,ridgemobility.io,Ben Lindqvist,ben.lindqvist@ridgemobility.io,Head of Support,1001-5000,Professional services,US,contact form,2026-07-18,new
 Apex Finance,apexfinance.com,Dmitri Tanaka,dmitri.tanaka@apexfinance.com,Founder,11-50,Logistics,DE,conference,2026-07-19,contacted
-River Robotics,riverrobotics.com,Zoe Rahman,zoe.rahman@riverrobotics.com,Founder,201-500,Professional services,US,contact form,2026-07-19,new
-Compass Analytics,compassanalytics.com,Maya Petrov,maya.petrov@compassanalytics.com,Founder,1-10,Manufacturing,DE,conference,2026-07-19,new
-Iron Security,ironsecurity.co,Rosa Delgado,rosa.delgado@ironsecurity.co,CTO,11-50,Professional services,US,conference,2026-07-20,new
-Atlas Robotics,atlasrobotics.co,Priya Moreau,priya.moreau@atlasrobotics.co,Head of Support,201-500,Fintech,US,pricing page,2026-07-20,new
-Cedar Foods,cedarfoods.com,Sam Romero,sam.romero@cedarfoods.com,Operations Manager,51-200,Healthcare,GB,webinar,2026-07-20,new
-Anchor Software,anchorsoftware.io,Yusuf Novak,yusuf.novak@anchorsoftware.io,Support Team Lead,11-50,Fintech,CA,contact form,2026-07-21,new
+Granite Robotics,graniterobotics.com,Zoe Rahman,zoe.rahman@graniterobotics.com,Founder,201-500,Professional services,US,contact form,2026-07-19,new
+Anchor Analytics,anchoranalytics.com,Maya Petrov,maya.petrov@anchoranalytics.com,Founder,1-10,Manufacturing,DE,conference,2026-07-19,new
+North Security,northsecurity.co,Rosa Delgado,rosa.delgado@northsecurity.co,CTO,11-50,Professional services,US,conference,2026-07-20,new
+Meridian Robotics,meridianrobotics.co,Priya Moreau,priya.moreau@meridianrobotics.co,Head of Support,201-500,Fintech,US,pricing page,2026-07-20,new
+Juniper Foods,juniperfoods.com,Sam Romero,sam.romero@juniperfoods.com,Operations Manager,51-200,Healthcare,GB,webinar,2026-07-20,new
+Beacon Software,beaconsoftware.io,Yusuf Novak,yusuf.novak@beaconsoftware.io,Support Team Lead,11-50,Fintech,CA,contact form,2026-07-21,new
 Ridge Industries,ridgeindustries.com,Wen Delgado,wen.delgado@ridgeindustries.com,Operations Manager,201-500,Professional services,DE,conference,2026-07-21,new
-Maple Energy,mapleenergy.io,Ingrid Brennan,ingrid.brennan@mapleenergy.io,Head of Support,501-1000,Education,NL,docs,2026-07-22,new
+River Energy,riverenergy.io,Ingrid Brennan,ingrid.brennan@riverenergy.io,Head of Support,501-1000,Education,NL,docs,2026-07-22,new
 Delta Capital,deltacapital.com,Carla Kowalski,carla.kowalski@deltacapital.com,CTO,51-200,Manufacturing,CA,pricing page,2026-07-22,new
-Vector Labs,vectorlabs.co,Noah Delgado,noah.delgado@vectorlabs.co,Office Manager,1-10,Energy,US,referral,2026-07-22,contacted
+Lumen Labs,lumenlabs.co,Noah Delgado,noah.delgado@lumenlabs.co,Office Manager,1-10,Energy,US,referral,2026-07-22,contacted
 Delta Learning,deltalearning.com,Grace Fischer,grace.fischer@deltalearning.com,Office Manager,501-1000,Media,DE,trial signup,2026-07-22,unqualified
-River Health,riverhealth.io,Dmitri Varga,dmitri.varga@riverhealth.io,Engineering Manager,1-10,Fintech,DE,pricing page,2026-07-22,new
-Atlas Payroll,atlaspayroll.com,Farid Varga,farid.varga@atlaspayroll.com,Head of Support,51-200,Manufacturing,US,webinar,2026-07-23,new
-Harbor Partners,harborpartners.com,Victor Okafor,victor.okafor@harborpartners.com,Director of Operations,11-50,Fintech,US,conference,2026-07-23,new
-Lumen Dental,lumendental.co,Carla Lindqvist,carla.lindqvist@lumendental.co,Support Manager,201-500,Logistics,AU,conference,2026-07-24,new
-Compass Works,compassworks.com,Wen Rahman,wen.rahman@compassworks.com,Office Manager,201-500,Fintech,NL,pricing page,2026-07-24,new
-North Software,northsoftware.com,Aisha Tanaka,aisha.tanaka@northsoftware.com,Engineering Manager,1001-5000,Fintech,US,webinar,2026-07-24,new
+Granite Health,granitehealth.io,Dmitri Varga,dmitri.varga@granitehealth.io,Engineering Manager,1-10,Fintech,DE,pricing page,2026-07-22,new
+Meridian Payroll,meridianpayroll.com,Farid Varga,farid.varga@meridianpayroll.com,Head of Support,51-200,Manufacturing,US,webinar,2026-07-23,new
+Cedar Partners,cedarpartners.com,Victor Okafor,victor.okafor@cedarpartners.com,Director of Operations,11-50,Fintech,US,conference,2026-07-23,new
+Orbit Dental,orbitdental.co,Carla Lindqvist,carla.lindqvist@orbitdental.co,Support Manager,201-500,Logistics,AU,conference,2026-07-24,new
+Anchor Works,anchorworks.com,Wen Rahman,wen.rahman@anchorworks.com,Office Manager,201-500,Fintech,NL,pricing page,2026-07-24,new
+Blue Software,bluesoftware.com,Aisha Tanaka,aisha.tanaka@bluesoftware.com,Engineering Manager,1001-5000,Fintech,US,webinar,2026-07-24,new
 Ridge Analytics,ridgeanalytics.io,Noah Varga,noah.varga@ridgeanalytics.io,VP Customer Experience,51-200,Healthcare,NL,docs,2026-07-25,qualified
-Oak Goods,oakgoods.com,Olu Nakamura,olu.nakamura@oakgoods.com,IT Manager,1-10,Manufacturing,GB,docs,2026-07-25,new
-Iron Robotics,ironrobotics.com,Wen Varga,wen.varga@ironrobotics.com,Head of Support,11-50,Software,US,webinar,2026-07-26,unqualified
-Beacon Works,beaconworks.com,Ingrid Okafor,ingrid.okafor@beaconworks.com,Office Manager,1-10,Manufacturing,NL,webinar,2026-07-26,contacted
-Copper Supply,coppersupply.com,Ingrid Fischer,ingrid.fischer@coppersupply.com,Director of Operations,11-50,Manufacturing,DE,webinar,2026-07-26,new
-Orbit Studio,orbitstudio.com,Keiko Delgado,keiko.delgado@orbitstudio.com,Engineering Manager,1001-5000,Professional services,CA,contact form,2026-07-27,qualified
-River Mobility,rivermobility.com,Yusuf Nakamura,yusuf.nakamura@rivermobility.com,Office Manager,201-500,Professional services,CA,conference,2026-07-28,contacted
-Pine Logistics,pinelogistics.com,Carla Zhang,carla.zhang@pinelogistics.com,Director of Operations,1001-5000,Media,AU,docs,2026-07-28,new
-North Robotics,northrobotics.io,Yusuf Varga,yusuf.varga@northrobotics.io,CTO,501-1000,Media,US,docs,2026-07-28,unqualified
+Silver Goods,silvergoods.com,Olu Nakamura,olu.nakamura@silvergoods.com,IT Manager,1-10,Manufacturing,GB,docs,2026-07-25,new
+North Robotics,northrobotics.com,Wen Varga,wen.varga@northrobotics.com,Head of Support,11-50,Software,US,webinar,2026-07-26,unqualified
+Falcon Works,falconworks.com,Ingrid Okafor,ingrid.okafor@falconworks.com,Office Manager,1-10,Manufacturing,NL,webinar,2026-07-26,contacted
+Maple Supply,maplesupply.com,Ingrid Fischer,ingrid.fischer@maplesupply.com,Director of Operations,11-50,Manufacturing,DE,webinar,2026-07-26,new
+Atlas Studio,atlasstudio.com,Keiko Delgado,keiko.delgado@atlasstudio.com,Engineering Manager,1001-5000,Professional services,CA,contact form,2026-07-27,qualified
+Granite Mobility,granitemobility.com,Yusuf Nakamura,yusuf.nakamura@granitemobility.com,Office Manager,201-500,Professional services,CA,conference,2026-07-28,contacted
+Oak Logistics,oaklogistics.com,Carla Zhang,carla.zhang@oaklogistics.com,Director of Operations,1001-5000,Media,AU,docs,2026-07-28,new
+Blue Robotics,bluerobotics.io,Yusuf Varga,yusuf.varga@bluerobotics.io,CTO,501-1000,Media,US,docs,2026-07-28,unqualified
 Bright Freight,brightfreight.co,Uma Tanaka,uma.tanaka@brightfreight.co,Office Manager,1-10,Manufacturing,AU,contact form,2026-08-01,new
 Prime Systems,primesystems.com,Aisha Romero,aisha.romero@primesystems.com,Founder,11-50,Fintech,NL,conference,2026-08-01,unqualified
-Oak Capital,oakcapital.io,Hugo Petrov,hugo.petrov@oakcapital.io,Support Team Lead,501-1000,Professional services,US,conference,2026-08-01,qualified
-Atlas Learning,atlaslearning.com,Luis Nakamura,luis.nakamura@atlaslearning.com,Support Manager,1001-5000,Energy,CA,webinar,2026-08-01,contacted
+Silver Capital,silvercapital.io,Hugo Petrov,hugo.petrov@silvercapital.io,Support Team Lead,501-1000,Professional services,US,conference,2026-08-01,qualified
+Meridian Learning,meridianlearning.com,Luis Nakamura,luis.nakamura@meridianlearning.com,Support Manager,1001-5000,Energy,CA,webinar,2026-08-01,contacted
 Delta Supply,deltasupply.co,Jamal Lindqvist,jamal.lindqvist@deltasupply.co,IT Manager,1-10,Fintech,AU,trial signup,2026-08-02,qualified
 Bright Partners,brightpartners.com,Elena Petrov,elena.petrov@brightpartners.com,Director of Operations,1-10,Logistics,DE,webinar,2026-08-02,unqualified
 Apex Freight,apexfreight.com,Jamal Fischer,jamal.fischer@apexfreight.com,Founder,501-1000,Retail,NL,contact form,2026-08-02,new
-Lumen Labs,lumenlabs.com,Olu Kowalski,olu.kowalski@lumenlabs.com,VP Customer Experience,1001-5000,Manufacturing,DE,trial signup,2026-08-03,new
-Anchor Media,anchormedia.io,Tomas Okafor,tomas.okafor@anchormedia.io,Founder,201-500,Healthcare,NL,trial signup,2026-08-03,qualified
-Summit Finance,summitfinance.com,Uma Haddad,uma.haddad@summitfinance.com,Operations Manager,1001-5000,Logistics,DE,docs,2026-08-03,unqualified
-Summit Health,summithealth.com,Priya Lindqvist,priya.lindqvist@summithealth.com,Founder,51-200,Professional services,US,contact form,2026-08-03,qualified
-Silver Studio,silverstudio.io,Carla Moreau,carla.moreau@silverstudio.io,CTO,201-500,Logistics,NL,referral,2026-08-04,new
-Iron Works,ironworks.com,Tomas Haddad,tomas.haddad@ironworks.com,Head of Support,1001-5000,Fintech,DE,referral,2026-08-04,qualified
+Orbit Labs,orbitlabs.com,Olu Kowalski,olu.kowalski@orbitlabs.com,VP Customer Experience,1001-5000,Manufacturing,DE,trial signup,2026-08-03,new
+Beacon Media,beaconmedia.io,Tomas Okafor,tomas.okafor@beaconmedia.io,Founder,201-500,Healthcare,NL,trial signup,2026-08-03,qualified
+Harbor Finance,harborfinance.com,Uma Haddad,uma.haddad@harborfinance.com,Operations Manager,1001-5000,Logistics,DE,docs,2026-08-03,unqualified
+Harbor Health,harborhealth.com,Priya Lindqvist,priya.lindqvist@harborhealth.com,Founder,51-200,Professional services,US,contact form,2026-08-03,qualified
+Copper Studio,copperstudio.io,Carla Moreau,carla.moreau@copperstudio.io,CTO,201-500,Logistics,NL,referral,2026-08-04,new
+North Works,northworks.com,Tomas Haddad,tomas.haddad@northworks.com,Head of Support,1001-5000,Fintech,DE,referral,2026-08-04,qualified
 Apex Logistics,apexlogistics.co,Maya Rahman,maya.rahman@apexlogistics.co,Director of Operations,201-500,Software,US,webinar,2026-08-05,new
-Vector Energy,vectorenergy.io,Wen Tanaka,wen.tanaka@vectorenergy.io,Operations Manager,501-1000,Retail,US,contact form,2026-08-05,new
-Summit Goods,summitgoods.com,Olu Haddad,olu.haddad@summitgoods.com,Engineering Manager,1-10,Software,DE,conference,2026-08-05,unqualified
-Iron Clinics,ironclinics.com,Grace Iyer,grace.iyer@ironclinics.com,Engineering Manager,11-50,Retail,US,webinar,2026-08-06,new
-Pine Learning,pinelearning.com,Maya Kowalski,maya.kowalski@pinelearning.com,Operations Manager,51-200,Software,US,trial signup,2026-08-06,new
+Lumen Energy,lumenenergy.io,Wen Tanaka,wen.tanaka@lumenenergy.io,Operations Manager,501-1000,Retail,US,contact form,2026-08-05,new
+Harbor Goods,harborgoods.com,Olu Haddad,olu.haddad@harborgoods.com,Engineering Manager,1-10,Software,DE,conference,2026-08-05,unqualified
+North Clinics,northclinics.com,Grace Iyer,grace.iyer@northclinics.com,Engineering Manager,11-50,Retail,US,webinar,2026-08-06,new
+Oak Learning,oaklearning.com,Maya Kowalski,maya.kowalski@oaklearning.com,Operations Manager,51-200,Software,US,trial signup,2026-08-06,new
 Delta Dental,deltadental.com,Ben Silva,ben.silva@deltadental.com,CTO,1001-5000,Fintech,DE,pricing page,2026-08-07,contacted
-Orbit Finance,orbitfinance.com,Luis Castillo,luis.castillo@orbitfinance.com,Engineering Manager,51-200,Logistics,DE,referral,2026-08-08,new
-Summit Foods,summitfoods.com,Ingrid Mensah,ingrid.mensah@summitfoods.com,VP Customer Experience,1001-5000,Energy,GB,docs,2026-08-08,qualified
+Atlas Finance,atlasfinance.com,Luis Castillo,luis.castillo@atlasfinance.com,Engineering Manager,51-200,Logistics,DE,referral,2026-08-08,new
+Harbor Foods,harborfoods.com,Ingrid Mensah,ingrid.mensah@harborfoods.com,VP Customer Experience,1001-5000,Energy,GB,docs,2026-08-08,qualified
 Bright Group,brightgroup.com,Elena Tanaka,elena.tanaka@brightgroup.com,CTO,1001-5000,Software,US,pricing page,2026-08-09,new
-Oak Legal,oaklegal.com,Maya Brennan,maya.brennan@oaklegal.com,Support Team Lead,201-500,Professional services,US,conference,2026-08-09,qualified
-Beacon Care,beaconcare.co,Uma Castillo,uma.castillo@beaconcare.co,Office Manager,1001-5000,Energy,NL,referral,2026-08-10,new
+Silver Legal,silverlegal.com,Maya Brennan,maya.brennan@silverlegal.com,Support Team Lead,201-500,Professional services,US,conference,2026-08-09,qualified
+Falcon Care,falconcare.co,Uma Castillo,uma.castillo@falconcare.co,Office Manager,1001-5000,Energy,NL,referral,2026-08-10,new
 Nova Media,novamedia.io,Victor Lindqvist,victor.lindqvist@novamedia.io,Support Manager,1-10,Education,US,contact form,2026-08-11,unqualified
 Nova Clinics,novaclinics.com,Olu Moreau,olu.moreau@novaclinics.com,Support Manager,11-50,Media,CA,contact form,2026-08-11,new
 Prime Partners,primepartners.io,Hugo Brennan,hugo.brennan@primepartners.io,Office Manager,1001-5000,Software,US,referral,2026-08-12,new
 Prime Foods,primefoods.io,Noah Haddad,noah.haddad@primefoods.io,Operations Manager,201-500,Fintech,US,contact form,2026-08-12,new
 Bright Networks,brightnetworks.com,Grace Fischer,grace.fischer@brightnetworks.com,Engineering Manager,1-10,Software,DE,conference,2026-08-13,new
-Granite Mobility,granitemobility.com,Dmitri Varga,dmitri.varga@granitemobility.com,IT Manager,1-10,Media,CA,docs,2026-08-15,unqualified
-Meridian Labs,meridianlabs.com,Grace Nakamura,grace.nakamura@meridianlabs.com,Support Manager,11-50,Manufacturing,NL,pricing page,2026-08-15,new
+Iron Mobility,ironmobility.com,Dmitri Varga,dmitri.varga@ironmobility.com,IT Manager,1-10,Media,CA,docs,2026-08-15,unqualified
+Compass Labs,compasslabs.com,Grace Nakamura,grace.nakamura@compasslabs.com,Support Manager,11-50,Manufacturing,NL,pricing page,2026-08-15,new
 Bright Labs,brightlabs.com,Grace Okafor,grace.okafor@brightlabs.com,Director of Operations,1-10,Logistics,DE,trial signup,2026-08-15,qualified
-Anchor Legal,anchorlegal.com,Rosa Zhang,rosa.zhang@anchorlegal.com,VP Customer Experience,11-50,Software,CA,referral,2026-08-15,new
-Vector Learning,vectorlearning.com,Luis Novak,luis.novak@vectorlearning.com,IT Manager,501-1000,Fintech,US,webinar,2026-08-17,qualified
+Beacon Legal,beaconlegal.com,Rosa Zhang,rosa.zhang@beaconlegal.com,VP Customer Experience,11-50,Software,CA,referral,2026-08-15,new
+Lumen Learning,lumenlearning.com,Luis Novak,luis.novak@lumenlearning.com,IT Manager,501-1000,Fintech,US,webinar,2026-08-17,qualified
 Prime Studio,primestudio.com,Zoe Okafor,zoe.okafor@primestudio.com,Engineering Manager,501-1000,Fintech,CA,trial signup,2026-08-19,qualified
-Copper Works,copperworks.com,Rosa Nakamura,rosa.nakamura@copperworks.com,Support Manager,1001-5000,Healthcare,DE,referral,2026-08-19,contacted
+Maple Works,mapleworks.com,Rosa Nakamura,rosa.nakamura@mapleworks.com,Support Manager,1001-5000,Healthcare,DE,referral,2026-08-19,contacted
 Ridge Labs,ridgelabs.com,Grace Moreau,grace.moreau@ridgelabs.com,Founder,51-200,Software,GB,docs,2026-08-19,new
-Compass Robotics,compassrobotics.com,Dmitri Delgado,dmitri.delgado@compassrobotics.com,Engineering Manager,51-200,Software,GB,conference,2026-08-19,new
-Anchor Capital,anchorcapital.com,Priya Nakamura,priya.nakamura@anchorcapital.com,Engineering Manager,501-1000,Manufacturing,DE,contact form,2026-08-19,unqualified
-North Health,northhealth.com,Luis Petrov,luis.petrov@northhealth.com,Engineering Manager,201-500,Energy,US,trial signup,2026-08-20,new
-River Security,riversecurity.io,Zoe Moreau,zoe.moreau@riversecurity.io,Office Manager,1001-5000,Fintech,NL,webinar,2026-08-21,new
+Anchor Robotics,anchorrobotics.com,Dmitri Delgado,dmitri.delgado@anchorrobotics.com,Engineering Manager,51-200,Software,GB,conference,2026-08-19,new
+Beacon Capital,beaconcapital.com,Priya Nakamura,priya.nakamura@beaconcapital.com,Engineering Manager,501-1000,Manufacturing,DE,contact form,2026-08-19,unqualified
+Blue Health,bluehealth.com,Luis Petrov,luis.petrov@bluehealth.com,Engineering Manager,201-500,Energy,US,trial signup,2026-08-20,new
+Granite Security,granitesecurity.io,Zoe Moreau,zoe.moreau@granitesecurity.io,Office Manager,1001-5000,Fintech,NL,webinar,2026-08-21,new
 Apex Systems,apexsystems.co,Ingrid Novak,ingrid.novak@apexsystems.co,Head of Support,1-10,Education,US,docs,2026-08-21,new
-Silver Finance,silverfinance.io,Priya Adeyemi,priya.adeyemi@silverfinance.io,Director of Operations,201-500,Fintech,US,contact form,2026-08-21,new
-Atlas Studio,atlasstudio.io,Carla Iyer,carla.iyer@atlasstudio.io,Director of Operations,201-500,Media,AU,docs,2026-08-22,unqualified
+Copper Finance,copperfinance.io,Priya Adeyemi,priya.adeyemi@copperfinance.io,Director of Operations,201-500,Fintech,US,contact form,2026-08-21,new
+Meridian Studio,meridianstudio.io,Carla Iyer,carla.iyer@meridianstudio.io,Director of Operations,201-500,Media,AU,docs,2026-08-22,unqualified
 Prime Group,primegroup.com,Grace Romero,grace.romero@primegroup.com,Founder,11-50,Education,GB,trial signup,2026-08-24,qualified
-Silver Media,silvermedia.com,Grace Adeyemi,grace.adeyemi@silvermedia.com,IT Manager,1001-5000,Manufacturing,AU,pricing page,2026-08-25,new
+Copper Media,coppermedia.com,Grace Adeyemi,grace.adeyemi@coppermedia.com,IT Manager,1001-5000,Manufacturing,AU,pricing page,2026-08-25,new
 Bright Media,brightmedia.com,Dmitri Adeyemi,dmitri.adeyemi@brightmedia.com,Customer Success Lead,501-1000,Retail,US,contact form,2026-08-26,unqualified
-North Industries,northindustries.com,Maya Doyle,maya.doyle@northindustries.com,CTO,201-500,Media,DE,trial signup,2026-08-27,new
-Anchor Supply,anchorsupply.co,Ben Doyle,ben.doyle@anchorsupply.co,Support Manager,501-1000,Manufacturing,US,referral,2026-08-27,unqualified
-Summit Clinics,summitclinics.com,Hugo Silva,hugo.silva@summitclinics.com,Customer Success Lead,51-200,Healthcare,CA,conference,2026-08-27,new
+Blue Industries,blueindustries.com,Maya Doyle,maya.doyle@blueindustries.com,CTO,201-500,Media,DE,trial signup,2026-08-27,new
+Beacon Supply,beaconsupply.co,Ben Doyle,ben.doyle@beaconsupply.co,Support Manager,501-1000,Manufacturing,US,referral,2026-08-27,unqualified
+Harbor Clinics,harborclinics.com,Hugo Silva,hugo.silva@harborclinics.com,Customer Success Lead,51-200,Healthcare,CA,conference,2026-08-27,new
 Delta Industries,deltaindustries.co,Grace Petrov,grace.petrov@deltaindustries.co,IT Manager,51-200,Energy,GB,pricing page,2026-08-28,new
 Bright Capital,brightcapital.com,Grace Costa,grace.costa@brightcapital.com,Founder,1001-5000,Education,NL,pricing page,2026-09-01,contacted
-Vector Networks,vectornetworks.io,Carla Varga,carla.varga@vectornetworks.io,CTO,1001-5000,Manufacturing,DE,trial signup,2026-09-01,new
-Falcon Clinics,falconclinics.com,Tomas Kowalski,tomas.kowalski@falconclinics.com,Customer Success Lead,1-10,Retail,DE,trial signup,2026-09-01,contacted
+Lumen Networks,lumennetworks.io,Carla Varga,carla.varga@lumennetworks.io,CTO,1001-5000,Manufacturing,DE,trial signup,2026-09-01,new
+Pine Clinics,pineclinics.com,Tomas Kowalski,tomas.kowalski@pineclinics.com,Customer Success Lead,1-10,Retail,DE,trial signup,2026-09-01,contacted
 Bright Goods,brightgoods.com,Farid Lindqvist,farid.lindqvist@brightgoods.com,Customer Success Lead,501-1000,Fintech,US,webinar,2026-09-02,qualified
-Lumen Health,lumenhealth.co,Dmitri Costa,dmitri.costa@lumenhealth.co,VP Customer Experience,51-200,Media,AU,docs,2026-09-02,unqualified
-Anchor Partners,anchorpartners.com,Carla Adeyemi,carla.adeyemi@anchorpartners.com,Founder,501-1000,Media,NL,pricing page,2026-09-03,unqualified
+Orbit Health,orbithealth.co,Dmitri Costa,dmitri.costa@orbithealth.co,VP Customer Experience,51-200,Media,AU,docs,2026-09-02,unqualified
+Beacon Partners,beaconpartners.com,Carla Adeyemi,carla.adeyemi@beaconpartners.com,Founder,501-1000,Media,NL,pricing page,2026-09-03,unqualified
 Echo Mobility,echomobility.com,Carla Castillo,carla.castillo@echomobility.com,VP Customer Experience,201-500,Retail,US,pricing page,2026-09-04,contacted
-Orbit Media,orbitmedia.co,Priya Tanaka,priya.tanaka@orbitmedia.co,CTO,11-50,Software,US,docs,2026-09-05,new
-Pine Insurance,pineinsurance.io,Noah Iyer,noah.iyer@pineinsurance.io,CTO,11-50,Media,DE,webinar,2026-09-06,new
-Orbit Insurance,orbitinsurance.com,Elena Costa,elena.costa@orbitinsurance.com,Support Team Lead,1-10,Professional services,US,pricing page,2026-09-06,qualified
-Anchor Dental,anchordental.com,Carla Novak,carla.novak@anchordental.com,IT Manager,501-1000,Software,AU,conference,2026-09-07,new
+Atlas Media,atlasmedia.co,Priya Tanaka,priya.tanaka@atlasmedia.co,CTO,11-50,Software,US,docs,2026-09-05,new
+Oak Insurance,oakinsurance.io,Noah Iyer,noah.iyer@oakinsurance.io,CTO,11-50,Media,DE,webinar,2026-09-06,new
+Atlas Insurance,atlasinsurance.com,Elena Costa,elena.costa@atlasinsurance.com,Support Team Lead,1-10,Professional services,US,pricing page,2026-09-06,qualified
+Beacon Dental,beacondental.com,Carla Novak,carla.novak@beacondental.com,IT Manager,501-1000,Software,AU,conference,2026-09-07,new
 Bright Insurance,brightinsurance.com,Hugo Nakamura,hugo.nakamura@brightinsurance.com,Director of Operations,51-200,Retail,NL,docs,2026-09-07,new
 Apex Energy,apexenergy.com,Uma Doyle,uma.doyle@apexenergy.com,Operations Manager,11-50,Media,CA,webinar,2026-09-07,new
-Summit Robotics,summitrobotics.io,Wen Novak,wen.novak@summitrobotics.io,Office Manager,1-10,Healthcare,AU,webinar,2026-09-08,new
-Cedar Energy,cedarenergy.com,Yusuf Fischer,yusuf.fischer@cedarenergy.com,VP Customer Experience,51-200,Healthcare,NL,docs,2026-09-09,qualified
-North Analytics,northanalytics.com,Hugo Novak,hugo.novak@northanalytics.com,VP Customer Experience,1-10,Energy,GB,referral,2026-09-09,contacted
+Harbor Robotics,harborrobotics.io,Wen Novak,wen.novak@harborrobotics.io,Office Manager,1-10,Healthcare,AU,webinar,2026-09-08,new
+Juniper Energy,juniperenergy.com,Yusuf Fischer,yusuf.fischer@juniperenergy.com,VP Customer Experience,51-200,Healthcare,NL,docs,2026-09-09,qualified
+Blue Analytics,blueanalytics.com,Hugo Novak,hugo.novak@blueanalytics.com,VP Customer Experience,1-10,Energy,GB,referral,2026-09-09,contacted
 Prime Analytics,primeanalytics.com,Uma Varga,uma.varga@primeanalytics.com,Founder,201-500,Education,NL,docs,2026-09-09,new
 Tide Goods,tidegoods.com,Priya Rahman,priya.rahman@tidegoods.com,Head of Support,11-50,Media,US,conference,2026-09-09,new
-Atlas Supply,atlassupply.com,Olu Fischer,olu.fischer@atlassupply.com,Head of Support,1001-5000,Media,US,conference,2026-09-09,contacted
-Lumen Learning,lumenlearning.com,Farid Costa,farid.costa@lumenlearning.com,IT Manager,1-10,Healthcare,CA,trial signup,2026-09-10,new
-Beacon Analytics,beaconanalytics.com,Elena Petrov,elena.petrov@beaconanalytics.com,Operations Manager,51-200,Logistics,US,trial signup,2026-09-11,qualified
-Lumen Networks,lumennetworks.com,Rosa Silva,rosa.silva@lumennetworks.com,Operations Manager,1-10,Fintech,AU,webinar,2026-09-11,contacted
-Orbit Payroll,orbitpayroll.com,Jamal Petrov,jamal.petrov@orbitpayroll.com,Support Manager,1001-5000,Education,US,referral,2026-09-12,qualified
-Vector Studio,vectorstudio.com,Noah Fischer,noah.fischer@vectorstudio.com,Office Manager,11-50,Retail,US,webinar,2026-09-12,new
-Harbor Mobility,harbormobility.com,Elena Kowalski,elena.kowalski@harbormobility.com,Customer Success Lead,501-1000,Professional services,AU,trial signup,2026-09-13,new
-Atlas Group,atlasgroup.io,Victor Zhang,victor.zhang@atlasgroup.io,Office Manager,11-50,Fintech,US,conference,2026-09-13,new
+Meridian Supply,meridiansupply.com,Olu Fischer,olu.fischer@meridiansupply.com,Head of Support,1001-5000,Media,US,conference,2026-09-09,contacted
+Orbit Learning,orbitlearning.com,Farid Costa,farid.costa@orbitlearning.com,IT Manager,1-10,Healthcare,CA,trial signup,2026-09-10,new
+Falcon Analytics,falconanalytics.com,Elena Petrov,elena.petrov@falconanalytics.com,Operations Manager,51-200,Logistics,US,trial signup,2026-09-11,qualified
+Orbit Networks,orbitnetworks.com,Rosa Silva,rosa.silva@orbitnetworks.com,Operations Manager,1-10,Fintech,AU,webinar,2026-09-11,contacted
+Atlas Payroll,atlaspayroll.com,Jamal Petrov,jamal.petrov@atlaspayroll.com,Support Manager,1001-5000,Education,US,referral,2026-09-12,qualified
+Lumen Studio,lumenstudio.com,Noah Fischer,noah.fischer@lumenstudio.com,Office Manager,11-50,Retail,US,webinar,2026-09-12,new
+Cedar Mobility,cedarmobility.com,Elena Kowalski,elena.kowalski@cedarmobility.com,Customer Success Lead,501-1000,Professional services,AU,trial signup,2026-09-13,new
+Meridian Group,meridiangroup.io,Victor Zhang,victor.zhang@meridiangroup.io,Office Manager,11-50,Fintech,US,conference,2026-09-13,new
 Apex Group,apexgroup.com,Carla Castillo,carla.castillo@apexgroup.com,Operations Manager,1-10,Fintech,US,pricing page,2026-09-13,new
-Falcon Security,falconsecurity.com,Yusuf Tanaka,yusuf.tanaka@falconsecurity.com,Support Manager,1-10,Healthcare,US,trial signup,2026-09-13,new
-Summit Dental,summitdental.com,Ben Doyle,ben.doyle@summitdental.com,Founder,51-200,Professional services,AU,pricing page,2026-09-14,new
-Blue Networks,bluenetworks.co,Ben Haddad,ben.haddad@bluenetworks.co,Engineering Manager,11-50,Retail,US,trial signup,2026-09-14,new
-Silver Robotics,silverrobotics.io,Uma Iyer,uma.iyer@silverrobotics.io,Head of Support,51-200,Education,CA,webinar,2026-09-14,qualified
-Compass Goods,compassgoods.com,Dmitri Castillo,dmitri.castillo@compassgoods.com,Founder,201-500,Energy,CA,webinar,2026-09-15,contacted
-Maple Dental,mapledental.co,Maya Iyer,maya.iyer@mapledental.co,Customer Success Lead,1001-5000,Healthcare,AU,trial signup,2026-09-15,new
+Pine Security,pinesecurity.com,Yusuf Tanaka,yusuf.tanaka@pinesecurity.com,Support Manager,1-10,Healthcare,US,trial signup,2026-09-13,new
+Harbor Dental,harbordental.com,Ben Doyle,ben.doyle@harbordental.com,Founder,51-200,Professional services,AU,pricing page,2026-09-14,new
+Summit Networks,summitnetworks.co,Ben Haddad,ben.haddad@summitnetworks.co,Engineering Manager,11-50,Retail,US,trial signup,2026-09-14,new
+Copper Robotics,copperrobotics.io,Uma Iyer,uma.iyer@copperrobotics.io,Head of Support,51-200,Education,CA,webinar,2026-09-14,qualified
+Anchor Goods,anchorgoods.com,Dmitri Castillo,dmitri.castillo@anchorgoods.com,Founder,201-500,Energy,CA,webinar,2026-09-15,contacted
+River Dental,riverdental.co,Maya Iyer,maya.iyer@riverdental.co,Customer Success Lead,1001-5000,Healthcare,AU,trial signup,2026-09-15,new
 Delta Energy,deltaenergy.io,Aisha Tanaka,aisha.tanaka@deltaenergy.io,VP Customer Experience,1-10,Media,CA,trial signup,2026-09-15,new
-Maple Group,maplegroup.com,Maya Lindqvist,maya.lindqvist@maplegroup.com,Director of Operations,11-50,Manufacturing,CA,webinar,2026-09-16,qualified
-Oak Insurance,oakinsurance.io,Wen Nakamura,wen.nakamura@oakinsurance.io,Engineering Manager,201-500,Logistics,DE,trial signup,2026-09-16,new
+River Group,rivergroup.com,Maya Lindqvist,maya.lindqvist@rivergroup.com,Director of Operations,11-50,Manufacturing,CA,webinar,2026-09-16,qualified
+Silver Insurance,silverinsurance.io,Wen Nakamura,wen.nakamura@silverinsurance.io,Engineering Manager,201-500,Logistics,DE,trial signup,2026-09-16,new
 Delta Legal,deltalegal.io,Wen Haddad,wen.haddad@deltalegal.io,Support Manager,1-10,Retail,AU,referral,2026-09-16,contacted
-Cedar Insurance,cedarinsurance.com,Tomas Okafor,tomas.okafor@cedarinsurance.com,Founder,501-1000,Fintech,NL,conference,2026-09-18,new
-Compass Finance,compassfinance.co,Ingrid Delgado,ingrid.delgado@compassfinance.co,Director of Operations,51-200,Logistics,US,referral,2026-09-18,contacted
-River Legal,riverlegal.com,Keiko Zhang,keiko.zhang@riverlegal.com,VP Customer Experience,201-500,Professional services,GB,webinar,2026-09-18,qualified
-Anchor Systems,anchorsystems.com,Zoe Larsen,zoe.larsen@anchorsystems.com,Support Team Lead,11-50,Education,US,webinar,2026-09-19,unqualified
+Juniper Insurance,juniperinsurance.com,Tomas Okafor,tomas.okafor@juniperinsurance.com,Founder,501-1000,Fintech,NL,conference,2026-09-18,new
+Anchor Finance,anchorfinance.co,Ingrid Delgado,ingrid.delgado@anchorfinance.co,Director of Operations,51-200,Logistics,US,referral,2026-09-18,contacted
+Granite Legal,granitelegal.com,Keiko Zhang,keiko.zhang@granitelegal.com,VP Customer Experience,201-500,Professional services,GB,webinar,2026-09-18,qualified
+Beacon Systems,beaconsystems.com,Zoe Larsen,zoe.larsen@beaconsystems.com,Support Team Lead,11-50,Education,US,webinar,2026-09-19,unqualified
 Nova Logistics,novalogistics.io,Tomas Moreau,tomas.moreau@novalogistics.io,Office Manager,51-200,Healthcare,NL,referral,2026-09-20,new
 Ridge Dental,ridgedental.com,Hugo Okafor,hugo.okafor@ridgedental.com,CTO,501-1000,Fintech,AU,webinar,2026-09-20,new
-Iron Payroll,ironpayroll.com,Olu Larsen,olu.larsen@ironpayroll.com,Founder,501-1000,Healthcare,US,conference,2026-09-20,contacted
-Silver Energy,silverenergy.co,Sam Moreau,sam.moreau@silverenergy.co,VP Customer Experience,201-500,Media,DE,docs,2026-09-20,new
-Copper Security,coppersecurity.com,Ben Romero,ben.romero@coppersecurity.com,Operations Manager,1-10,Logistics,GB,conference,2026-09-22,new
+North Payroll,northpayroll.com,Olu Larsen,olu.larsen@northpayroll.com,Founder,501-1000,Healthcare,US,conference,2026-09-20,contacted
+Copper Energy,copperenergy.co,Sam Moreau,sam.moreau@copperenergy.co,VP Customer Experience,201-500,Media,DE,docs,2026-09-20,new
+Maple Security,maplesecurity.com,Ben Romero,ben.romero@maplesecurity.com,Operations Manager,1-10,Logistics,GB,conference,2026-09-22,new
 Nova Mobility,novamobility.co,Farid Iyer,farid.iyer@novamobility.co,VP Customer Experience,11-50,Software,US,referral,2026-09-23,new
 Nova Systems,novasystems.io,Wen Castillo,wen.castillo@novasystems.io,Office Manager,1001-5000,Energy,US,contact form,2026-09-24,new
 Tide Labs,tidelabs.co,Sam Mensah,sam.mensah@tidelabs.co,Support Team Lead,51-200,Fintech,DE,docs,2026-09-24,contacted
-Silver Networks,silvernetworks.co,Sam Adeyemi,sam.adeyemi@silvernetworks.co,Customer Success Lead,1001-5000,Professional services,AU,contact form,2026-09-25,contacted
-Silver Partners,silverpartners.com,Yusuf Nakamura,yusuf.nakamura@silverpartners.com,Director of Operations,201-500,Professional services,DE,docs,2026-09-25,unqualified
-Cedar Security,cedarsecurity.com,Grace Okafor,grace.okafor@cedarsecurity.com,Support Team Lead,1001-5000,Energy,AU,conference,2026-09-26,new
+Copper Networks,coppernetworks.co,Sam Adeyemi,sam.adeyemi@coppernetworks.co,Customer Success Lead,1001-5000,Professional services,AU,contact form,2026-09-25,contacted
+Copper Partners,copperpartners.com,Yusuf Nakamura,yusuf.nakamura@copperpartners.com,Director of Operations,201-500,Professional services,DE,docs,2026-09-25,unqualified
+Juniper Security,junipersecurity.com,Grace Okafor,grace.okafor@junipersecurity.com,Support Team Lead,1001-5000,Energy,AU,conference,2026-09-26,new
 Apex Health,apexhealth.co,Zoe Larsen,zoe.larsen@apexhealth.co,Customer Success Lead,501-1000,Retail,DE,pricing page,2026-09-26,qualified
 Nova Group,novagroup.co,Priya Kowalski,priya.kowalski@novagroup.co,Support Team Lead,51-200,Education,CA,pricing page,2026-09-26,unqualified
-Copper Mobility,coppermobility.com,Wen Lindqvist,wen.lindqvist@coppermobility.com,Operations Manager,1001-5000,Healthcare,GB,referral,2026-09-27,unqualified
-Atlas Foods,atlasfoods.co,Victor Tanaka,victor.tanaka@atlasfoods.co,Support Team Lead,501-1000,Healthcare,CA,docs,2026-09-27,contacted
-Oak Media,oakmedia.io,Olu Lindqvist,olu.lindqvist@oakmedia.io,Engineering Manager,11-50,Retail,DE,pricing page,2026-09-28,new
-Cedar Health,cedarhealth.co,Uma Larsen,uma.larsen@cedarhealth.co,Founder,1-10,Energy,GB,contact form,2026-09-28,new
-Compass Software,compasssoftware.co,Maya Doyle,maya.doyle@compasssoftware.co,Founder,51-200,Logistics,US,pricing page,2026-09-28,unqualified
+Maple Mobility,maplemobility.com,Wen Lindqvist,wen.lindqvist@maplemobility.com,Operations Manager,1001-5000,Healthcare,GB,referral,2026-09-27,unqualified
+Meridian Foods,meridianfoods.co,Victor Tanaka,victor.tanaka@meridianfoods.co,Support Team Lead,501-1000,Healthcare,CA,docs,2026-09-27,contacted
+Silver Media,silvermedia.io,Olu Lindqvist,olu.lindqvist@silvermedia.io,Engineering Manager,11-50,Retail,DE,pricing page,2026-09-28,new
+Juniper Health,juniperhealth.co,Uma Larsen,uma.larsen@juniperhealth.co,Founder,1-10,Energy,GB,contact form,2026-09-28,new
+Anchor Software,anchorsoftware.co,Maya Doyle,maya.doyle@anchorsoftware.co,Founder,51-200,Logistics,US,pricing page,2026-09-28,unqualified
